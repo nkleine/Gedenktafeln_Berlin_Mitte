@@ -1,0 +1,512 @@
+Gender,Category,Activity,Context,District,Material,Birthplace,Deathplace,Deathyear_nn,Birthyear_nn,Made_nn
+f,Culture,Creative_Arts,NSresistance_persecuted,Tiergarten,Metall_Stahl,other,outside Germany,1992,1901,0
+m,History,Politics_Administration,Prussian_times,Tiergarten,"Bronze, Messing, Kupfer",other,outside Germany,1955,1872,0
+m,History,Politics_Administration,NSresistance_persecuted,Mitte,Porzellan,Leipzig,KZ or NS_capture,1945,1884,1994
+m,Culture,Creative_Arts,NovemberRevolution_Weimar,Moabit,"Bronze, Messing, Kupfer",Berlin,outside Germany,1935,1890,0
+m,History,Military_Police,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1953,1880,1995
+m,Culture,Creative_Arts,NovemberRevolution_Weimar,Moabit,"Bronze, Messing, Kupfer",Berlin,outside Germany,1935,1890,0
+m,Culture,Creative_Arts,no_specific_context,Tiergarten,Metall_Stahl,Berlin,Berlin,1943,1868,2007
+m,History,Medical,Jewish,Wedding,"Bronze, Messing, Kupfer",other,outside Germany,1954,1879,0
+f,Science and Research,Education_School,NSresistance_persecuted,Wedding,"Bronze, Messing, Kupfer",other,KZ or NS_capture,0,1877,1997
+m,History,Military_Police,no_specific_context,Tiergarten,Stein,no_information,no_information,1871,0,0
+f,History,Socialists,NSresistance_persecuted,Mitte,Metall_Stahl,no_information,KZ or NS_capture,1944,0,0
+f,Culture,Creative_Arts,NSresistance_persecuted,Hansaviertel,Acrylglas,other,KZ or NS_capture,1942,1924,0
+f,History,PublicPlaces_Buildings,no_specific_context,Mitte,other,Berlin,Berlin,1929,1864,1995
+m,Culture,Creative_Arts,no_specific_context,Mitte,Porzellan,other,Berlin,1975,1901,1995
+m,Religion and Philosophy,Christian_Church,other,Mitte,Porzellan,Berlin,Berlin,1767,1707,1994
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Porzellan,other,Berlin,1817,1743,1995
+m,History,Politics_Administration,Prussian_times,Mitte,"Bronze, Messing, Kupfer",other,other in Germany,1831,1757,0
+m,Religion and Philosophy,Christian_Church,NSresistance_persecuted,Wedding,"Bronze, Messing, Kupfer",other,KZ or NS_capture,1944,1887,0
+m,History,Politics_Administration,Prussian_times,Mitte,Porzellan,other,Berlin,1886,1817,1996
+m,Business,Chairman_Business_Finances,other,Mitte,Porzellan,other,Berlin,1775,1710,1996
+m,Science and Research,Medical,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1929,1850,1996
+m,History,Politics_Administration,SocialPolicy_issues,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1947,1867,1997
+m,Culture,Creative_Arts,Prussian_times,Mitte,Stein,other,Berlin,1868,1817,0
+m,Religion and Philosophy,Christian_Church,other,Mitte,"Bronze, Messing, Kupfer",other,other in Germany,1898,1828,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1867,1785,1997
+m,History,Socialists,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,Religion and Philosophy,other,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,outside Germany,1855,1813,1997
+f,Science and Research,Medical,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1911,1834,1998
+m,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,outside Germany,1856,1797,1956
+m,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Berlin,Berlin,1832,1758,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,other in Germany,1813,1791,0
+groups of mixed gender,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1821,1738,1998
+groups of mixed gender,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,other in Germany,1833,1754,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Porzellan,other,Berlin,1793,1756,1998
+m,Culture,Creative_Arts,GDR_GDR_personality,Mitte,Stein,Berlin,Berlin,1976,1888,0
+m,History,Politics_Administration,other_countries,Mitte,"Bronze, Messing, Kupfer",other,Baden-Baden,1883,1798,1998
+m,Science and Research,Science_otherResearch,NSresistance_persecuted,Mitte,Acrylglas,other,Berlin,1943,1894,0
+m,Culture,Architecture,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1940,1868,1999
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,other,Breslau,Berlin,1854,1804,0
+groups of mixed gender,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1956,1898,1978
+m,Science and Research,Medical,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1873,1795,1999
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1947,1883,1999
+m,Science and Research,Medical,no_specific_context,Mitte,other,other,Baden-Baden,1910,1843,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Berlin,Berlin,1859,1769,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,other,other,Berlin,1898,1819,0
+m,Culture,Creative_Arts,other_countries,Mitte,Metall_Stahl,other,Berlin,1857,1804,2000
+m,Religion and Philosophy,Christian_Church,other,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1859,1797,2000
+m,Culture,Creative_Arts,other_countries,Mitte,"Bronze, Messing, Kupfer",other,no_information,0,1815,2000
+m,History,Education_School,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Berlin,other in Germany,1977,1888,2001
+m,Culture,Creative_Arts,other_countries,Mitte,Stein,other,Berlin,1857,1804,1952
+m,History,Socialists,NSresistance_persecuted,Mitte,Acrylglas,no_information,Berlin,1942,0,2001
+m,History,Socialists,NSresistance_persecuted,Mitte,Stein,other,KZ or NS_capture,1944,1904,0
+m,Culture,Creative_Arts,no_specific_context,Wedding,"Bronze, Messing, Kupfer",other,Berlin,1953,1880,0
+m,History,Politics_Administration,Prussian_times,Mitte,Stein,other,Berlin,1942,1861,1996
+f,Religion and Philosophy,Jewish_Synagogue,NSresistance_persecuted,Mitte,Acrylglas,Berlin,KZ or NS_capture,1944,1902,2001
+m,Culture,Creative_Arts,no_specific_context,Gesundbrunnen,"Bronze, Messing, Kupfer",Berlin,outside Germany,1955,1892,0
+m,History,Politics_Administration,NSresistance_persecuted,Wedding,"Bronze, Messing, Kupfer",other,other in Germany,1952,1898,0
+m,Culture,Creative_Arts,Prussian_times,Mitte,Stein,other,Berlin,1798,1725,0
+m,History,Politics_Administration,no_specific_context,Wedding,"Bronze, Messing, Kupfer",other,Berlin,1935,1869,0
+m,Culture,Creative_Arts,SocialPolicy_issues,Wedding,"Bronze, Messing, Kupfer",other,Berlin,1889,1837,0
+m,History,Military_Police,no_specific_context,Gesundbrunnen,"Bronze, Messing, Kupfer",no_information,Berlin,1953,0,0
+m,Religion and Philosophy,Christian_Church,no_specific_context,Mitte,Stein,no_information,Berlin,1801,1744,0
+m,Science and Research,Education_School,no_specific_context,Wedding,"Bronze, Messing, Kupfer",no_information,no_information,0,1896,0
+f,Culture,Creative_Arts,no_specific_context,Mitte,Stein,other,Berlin,1791,1722,0
+m,Science and Research,Science_otherResearch,SocialPolicy_issues,Mitte,Acrylglas,Berlin,Berlin,1919,1860,2002
+m,Science and Research,Science_otherResearch,GDR_GDR_personality,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1978,1898,1981
+m,Culture,Creative_Arts,no_specific_context,Wedding,"Bronze, Messing, Kupfer",Berlin,Berlin,1961,1897,1981
+m,History,Socialists,NSresistance_persecuted,Wedding,"Bronze, Messing, Kupfer",other,Berlin,1942,1890,0
+m,History,Socialists,NSresistance_persecuted,Wedding,other,no_information,no_information,0,0,1951
+f,History,CivilSocietyOrganisation,SocialPolicy_issues,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1917,1853,2003
+m,History,CivilSocietyOrganisation,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,History,Politics_Administration,SocialPolicy_issues,Mitte,Porzellan,other,Berlin,1947,1867,2003
+m,History,Socialists,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",other,KZ or NS_capture,1944,1886,1952
+m,Culture,Creative_Arts,other_countries,Mitte,"Bronze, Messing, Kupfer",other,outside Germany,1886,1796,0
+m,Religion and Philosophy,Christian_Church,Prussian_times,Mitte,Stein,other,Berlin,1741,0,2000
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1858,1799,2009
+f,History,Civilian,NSresistance_persecuted,Gesundbrunnen,"Bronze, Messing, Kupfer",no_information,Berlin,1967,1893,2003
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Stein,Berlin,Berlin,1915,1836,0
+m,History,Socialists,NovemberRevolution_Weimar,Tiergarten,Acrylglas,Leipzig,Berlin,1919,1871,2003
+m,History,Military_Police,other_countries,Tiergarten,"Bronze, Messing, Kupfer",no_information,outside Germany,2001,0,2003
+m,Science and Research,Science_otherResearch,Prussian_times,Mitte,"Bronze, Messing, Kupfer",Berlin,Berlin,1859,1769,2004
+m,History,Politics_Administration,no_specific_context,Mitte,Stein,no_information,no_information,1721,0,0
+m,History,Socialists,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",Berlin,Berlin,1944,1910,2005
+m,Culture,Creative_Arts,SocialPolicy_issues,Tiergarten,"Bronze, Messing, Kupfer",Breslau,outside Germany,1864,1825,2005
+m,History,Politics_Administration,AntiWar,Tiergarten,Acrylglas,other,outside Germany,1935,1866,2008
+m,History,Politics_Administration,GDR_GDR_personality,Mitte,Stein,other,Berlin,1960,1876,0
+m,History,Politics_Administration,no_specific_context,Mitte,Porzellan,other,other in Germany,1967,1876,1994
+m,History,Politics_Administration,AntiWar,Mitte,Metall_Stahl,other,Berlin,1919,1863,0
+m,Culture,Creative_Arts,no_specific_context,Moabit,Porzellan,other,Berlin,1954,1908,2010
+f,Culture,Creative_Arts,no_specific_context,Tiergarten,Porzellan,other,Berlin,1859,1785,1990
+f,Religion and Philosophy,Jewish_Synagogue,no_specific_context,Hansaviertel,Porzellan,no_information,no_information,0,0,2011
+m,History,Politics_Administration,Jewish,Mitte,Porzellan,other,other in Germany,1960,1881,0
+m,History,Socialists,NSresistance_persecuted,Gesundbrunnen,Porzellan,Berlin,KZ or NS_capture,1942,1895,1991
+m,Culture,Creative_Arts,no_specific_context,Hansaviertel,Porzellan,other,other in Germany,1925,1858,1998
+f,Science and Research,Medical,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1932,1841,2006
+m,Religion and Philosophy,Christian_Church,other,Gesundbrunnen,Porzellan,other,Berlin,1936,1866,1991
+m,Religion and Philosophy,Christian_Church,other,Moabit,Porzellan,other,other in Germany,1970,1882,1990
+groups of mixed gender,History,Civilian,NSresistance_persecuted,Mitte,Porzellan,no_information,no_information,0,0,0
+m,History,Medical,no_specific_context,Wedding,Porzellan,other,KZ or NS_capture,1940,1885,1990
+m,Religion and Philosophy,Jewish_Synagogue,Jewish,Mitte,Porzellan,other,Berlin,1874,1810,2010
+m,Business,Chairman_Business_Finances,other,Tiergarten,Porzellan,other,other in Germany,1956,1882,2010
+m,History,Politics_Administration,no_specific_context,Tiergarten,Porzellan,other,Berlin,1931,1876,2011
+m,History,Medical,NSresistance_persecuted,Moabit,Porzellan,other,KZ or NS_capture,1944,1904,1995
+groups of mixed gender,History,Civilian,NSresistance_persecuted,Wedding,Porzellan,other,Berlin,1943,1897,1989
+f,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,Porzellan,Breslau,Berlin,1989,1897,1997
+m,Culture,Creative_Arts,other_countries,Mitte,other,other,outside Germany,1896,1861,0
+m,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,Porzellan,other,Berlin,1945,1871,1997
+f,History,CivilSocietyOrganisation,Jewish,Mitte,Acrylglas,other,Berlin,1936,1859,2012
+m,History,Politics_Administration,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Potsdam,Berlin,1882,1797,0
+m,Religion and Philosophy,Jewish_Synagogue,Jewish,Mitte,Porzellan,other,Berlin,1828,1768,2010
+m,Culture,Architecture,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1879,1813,2007
+m,Science and Research,Medical,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Berlin,outside Germany,1938,1866,2003
+m,History,Politics_Administration,no_specific_context,Moabit,Porzellan,other,Berlin,1961,1882,2011
+m,Culture,Creative_Arts,no_specific_context,Mitte,Porzellan,other,Berlin,1940,1878,2010
+f,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Berlin,Berlin,1803,1771,0
+m,History,Medical,no_specific_context,Mitte,Stein,no_information,no_information,1870,1828,1908
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Stein,Potsdam,other in Germany,1894,1821,1908
+m,History,CivilSocietyOrganisation,SocialPolicy_issues,Mitte,Porzellan,no_information,no_information,0,1847,1988
+m,Science and Research,Science_otherResearch,no_specific_context,Gesundbrunnen,Stein,Berlin,Berlin,1859,1769,0
+f,Culture,Creative_Arts,NSresistance_persecuted,Mitte,Metall_Stahl,other,Berlin,1943,1905,1979
+m,Culture,Creative_Arts,Prussian_times,Mitte,Porzellan,Berlin,Berlin,1811,1733,2011
+m,History,Socialists,NSresistance_persecuted,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,Religion and Philosophy,Christian_Church,NSresistance_persecuted,Wedding,Porzellan,Potsdam,Berlin,1972,1903,1998
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,Berlin,other in Germany,1942,1887,1994
+m,Religion and Philosophy,Christian_Church,no_specific_context,Gesundbrunnen,Porzellan,Berlin,Berlin,1967,1892,0
+m,Culture,Creative_Arts,no_specific_context,Gesundbrunnen,Porzellan,no_information,no_information,0,1865,1992
+m,Culture,Creative_Arts,no_specific_context,Gesundbrunnen,Metall_Stahl,Berlin,other in Germany,2005,1929,0
+m,Business,Creative_Arts,other,Mitte,Porzellan,no_information,no_information,0,0,2008
+m,Religion and Philosophy,Chairman_Business_Finances,NSresistance_persecuted,Gesundbrunnen,"Bronze, Messing, Kupfer",other,Berlin,1992,1912,0
+f,Culture,Creative_Arts,NSresistance_persecuted,Hansaviertel,Porzellan,other,outside Germany,1970,1891,1995
+m,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,outside Germany,1943,1873,0
+m,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,Porzellan,other,Berlin,1899,1827,1989
+f,History,Civilian,NSresistance_persecuted,Moabit,Porzellan,no_information,no_information,0,0,1996
+m,Science and Research,Medical,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,outside Germany,1938,1858,1992
+f,Culture,Creative_Arts,no_specific_context,Gesundbrunnen,Acrylglas,Berlin,Berlin,2001,1802,0
+m,Business,Chairman_Business_Finances,no_specific_context,Wedding,Porzellan,other,Berlin,1889,1824,1988
+m,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,Porzellan,other,Berlin,1985,1907,2002
+m,Science and Research,Science_otherResearch,no_specific_context,Gesundbrunnen,Metall_Stahl,other,Berlin,1940,1860,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Porzellan,Berlin,Berlin,1906,1836,2009
+m,Science and Research,Science_otherResearch,GDRflight_victim,Gesundbrunnen,Metall_Stahl,other,no_information,0,1940,2010
+m,Business,Chairman_Business_Finances,no_specific_context,Gesundbrunnen,Porzellan,other,Berlin,1892,1825,1989
+groups of mixed gender,History,Civilian,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",other,KZ or NS_capture,1944,1883,1999
+m,History,Civilian,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",Berlin,Berlin,1945,1886,0
+m,History,Politics_Administration,no_specific_context,Moabit,Porzellan,other,Berlin,1938,1882,1989
+m,History,CivilSocietyOrganisation,other,Gesundbrunnen,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,Culture,Creative_Arts,other_countries,Tiergarten,Porzellan,other,outside Germany,1910,1835,2011
+m,Religion and Philosophy,Christian_Church,other,Gesundbrunnen,Stein,other,Berlin,1873,1815,0
+m,Science and Research,Medical,no_specific_context,Wedding,Porzellan,other,Berlin,1902,1821,1988
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Stein,Berlin,Berlin,1995,1918,0
+m,Science and Research,Education_School,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Potsdam,Berlin,1835,1767,1998
+m,Culture,Creative_Arts,other,Hansaviertel,"Bronze, Messing, Kupfer",Berlin,outside Germany,1989,0,0
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1933,1855,1997
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,outside Germany,1955,1879,1965
+m,History,Medical,no_specific_context,Hansaviertel,Metall_Stahl,no_information,no_information,1870,1828,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,other,outside Germany,1783,1707,0
+m,Religion and Philosophy,Christian_Church,other,Mitte,Metall_Stahl,Breslau,Berlin,1834,1768,1985
+m,Religion and Philosophy,other,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1831,1770,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,other,outside Germany,1955,1879,1994
+m,History,Politics_Administration,SocialPolicy_issues,Hansaviertel,Metall_Stahl,other,Berlin,1939,1865,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1822,1776,0
+m,History,Medical,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1836,1762,0
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,Metall_Stahl,other,other in Germany,1864,1790,1997
+f,History,Socialists,NSresistance_persecuted,Mitte,Metall_Stahl,other,other in Germany,1942,1942,0
+m,Culture,Architecture,Prussian_times,Mitte,Metall_Stahl,other,Berlin,1841,1781,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,other,outside Germany,1890,1819,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1811,1777,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,Berlin,outside Germany,0,1880,1980
+m,Science and Research,Medical,no_specific_context,Mitte,Metall_Stahl,other,Baden-Baden,1910,1843,1982
+m,Culture,Creative_Arts,NSresistance_persecuted,Moabit,Metall_Stahl,other,Berlin,1938,1889,0
+groups of mixed gender,History,Civilian,NSresistance_persecuted,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,History,Socialists,NSresistance_persecuted,Mitte,Metall_Stahl,other,KZ or NS_capture,1944,1904,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,other,other in Germany,1781,1729,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,Berlin,Berlin,1935,1847,0
+m,History,Politics_Administration,NSresistance_persecuted,Mitte,Metall_Stahl,other,KZ or NS_capture,1938,1903,0
+m,History,Politics_Administration,no_specific_context,Wedding,Metall_Stahl,other,Berlin,1925,1856,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,Berlin,Berlin,1851,1803,0
+m,Science and Research,Medical,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1961,1871,0
+m,History,Politics_Administration,no_specific_context,Moabit,Metall_Stahl,Berlin,Berlin,1954,1895,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1941,1864,1983
+m,Religion and Philosophy,Christian_Church,NSresistance_persecuted,Mitte,Metall_Stahl,Breslau,other in Germany,1945,1906,2000
+m,History,CivilSocietyOrganisation,other,Moabit,Metall_Stahl,no_information,no_information,0,0,2003
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,Berlin,Berlin,1811,1733,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,other,other in Germany,1947,1858,0
+m,History,Politics_Administration,no_specific_context,Moabit,Metall_Stahl,other,other in Germany,1996,1931,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,Berlin,Berlin,1850,1764,0
+m,Science and Research,Science_otherResearch,NSresistance_persecuted,Mitte,Metall_Stahl,other,Berlin,1943,1894,0
+f,History,Civilian,no_specific_context,Moabit,Metall_Stahl,no_information,no_information,0,0,0
+m,History,Politics_Administration,other_countries,Gesundbrunnen,Metall_Stahl,other,outside Germany,1963,1886,1986
+f,Science and Research,Science_otherResearch,no_specific_context,Moabit,Metall_Stahl,other,Berlin,1935,1871,0
+f,Religion and Philosophy,Chairman_Business_Finances,other,Moabit,Metall_Stahl,Berlin,Berlin,1951,1875,1952
+f,Science and Research,Science_otherResearch,NSresistance_persecuted,Moabit,Metall_Stahl,other,other in Germany,1942,1885,2007
+m,Science and Research,Science_otherResearch,NSresistance_persecuted,Mitte,Metall_Stahl,other,KZ or NS_capture,1944,1891,0
+m,History,Civilian,GDRflight_victim,Moabit,Metall_Stahl,Berlin,Berlin,1948,1933,1999
+m,History,Politics_Administration,NSresistance_persecuted,Mitte,Metall_Stahl,other,KZ or NS_capture,1938,1903,2009
+groups of mixed gender,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,other,outside Germany,1968,1879,0
+m,History,CivilSocietyOrganisation,SocialPolicy_issues,Wedding,Metall_Stahl,no_information,no_information,0,1869,0
+m,History,Socialists,NSresistance_persecuted,Mitte,Metall_Stahl,other,other in Germany,1982,1910,2000
+m,Religion and Philosophy,Christian_Church,SocialPolicy_issues,Wedding,Metall_Stahl,no_information,other in Germany,1944,1853,0
+m,History,Medical,no_specific_context,Gesundbrunnen,Metall_Stahl,no_information,no_information,0,1834,1988
+f,History,Politics_Administration,no_specific_context,Wedding,Metall_Stahl,other,Berlin,1986,1934,0
+m,Religion and Philosophy,Politics_Administration,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1705,0,0
+m,Culture,Creative_Arts,no_specific_context,Tiergarten,Metall_Stahl,other,no_information,0,1891,0
+m,History,Politics_Administration,NovemberRevolution_Weimar,Wedding,Metall_Stahl,other,Berlin,1925,1871,0
+m,History,Politics_Administration,SocialPolicy_issues,Wedding,Metall_Stahl,no_information,no_information,0,1851,0
+m,Business,Chairman_Business_Finances,no_specific_context,Wedding,Metall_Stahl,no_information,no_information,0,0,0
+m,History,CivilSocietyOrganisation,SocialPolicy_issues,Wedding,Metall_Stahl,no_information,no_information,0,0,0
+m,Science and Research,Science_otherResearch,no_specific_context,Wedding,Metall_Stahl,other,Berlin,1918,1839,0
+m,Religion and Philosophy,Christian_Church,NSresistance_persecuted,Tiergarten,Metall_Stahl,Breslau,other in Germany,1945,1906,0
+m,Business,Chairman_Business_Finances,other,Tiergarten,Metall_Stahl,Berlin,Berlin,1932,1851,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,Berlin,Berlin,1886,1800,1900
+f,History,Politics_Administration,no_specific_context,Wedding,Metall_Stahl,other,Berlin,1957,1887,0
+m,Religion and Philosophy,Christian_Church,other,Mitte,Metall_Stahl,other,other in Germany,0,0,1957
+m,Science and Research,Science_otherResearch,no_specific_context,Wedding,Metall_Stahl,other,Berlin,1919,1850,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,other,Berlin,0,0,1962
+m,Religion and Philosophy,Christian_Church,other,Mitte,Metall_Stahl,Breslau,Berlin,1834,1768,0
+m,History,Chairman_Business_Finances,Jewish,Mitte,Metall_Stahl,no_information,no_information,0,0,1948
+m,History,Politics_Administration,NovemberRevolution_Weimar,Wedding,Metall_Stahl,Berlin,Berlin,1922,1867,0
+m,Science and Research,Medical,no_specific_context,Mitte,Metall_Stahl,other,Baden-Baden,1910,1843,1982
+m,Science and Research,Medical,no_specific_context,Mitte,Metall_Stahl,Berlin,Berlin,1896,1818,1996
+m,Science and Research,Medical,SocialPolicy_issues,Hansaviertel,Metall_Stahl,other,other in Germany,1935,1868,1994
+m,Religion and Philosophy,Jewish_Synagogue,Jewish,Moabit,Metall_Stahl,other,outside Germany,1994,1902,2001
+f,History,Civilian,NSresistance_persecuted,Mitte,Metall_Stahl,Berlin,KZ or NS_capture,1944,1892,2001
+m,Culture,Creative_Arts,no_specific_context,Tiergarten,Metall_Stahl,other,Berlin,1884,1841,0
+m,History,Military_Police,other,Tiergarten,Metall_Stahl,no_information,no_information,0,0,0
+unspecified,History,Civilian,GDRflight_victim,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,2002
+no person,Building,Architecture,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,1999
+no person,Building,Military_Police,other,Mitte,Metall_Stahl,no_information,no_information,0,0,2003
+no person,History,Civilian,AntiWar,Mitte,Metall_Stahl,no_information,no_information,0,0,1993
+unspecified,History,Civilian,AntiWar,Mitte,Metall_Stahl,no_information,no_information,0,0,1993
+m,History,Politics_Administration,SocialPolicy_issues,Gesundbrunnen,Metall_Stahl,other,outside Germany,1950,1859,1988
+no person,History,Civilian,NSresistance_persecuted,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,Culture,Creative_Arts,NSresistance_persecuted,Mitte,Metall_Stahl,no_information,no_information,0,0,1995
+no person,History,Civilian,Wall_GermanUnity,Tiergarten,Metall_Stahl,no_information,no_information,0,0,1991
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1943,1853,2002
+m,History,Politics_Administration,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,1858,2002
+no person,History,CivilSocietyOrganisation,other,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+no person,History,Civilian,GDRflight_victim,Mitte,Metall_Stahl,no_information,no_information,0,0,1993
+m,History,Politics_Administration,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+no person,History,Civilian,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+no person,History,Civilian,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+m,History,Civilian,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+no person,History,Civilian,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+m,History,Civilian,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+no person,History,Civilian,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+m,Science and Research,Medical,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,1998
+m,History,Civilian,Prussian_times,Mitte,Metall_Stahl,Berlin,Berlin,1848,1830,1999
+m,History,Civilian,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,1999
+no person,History,Civilian,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,2000
+no person,Building,Architecture,no_specific_context,Moabit,Metall_Stahl,no_information,no_information,0,0,0
+no person,Building,Jewish_Synagogue,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,Building,Christian_Church,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,Building,Jewish_Synagogue,Jewish,Mitte,Metall_Stahl,no_information,no_information,0,0,2000
+no person,Building,Jewish_Synagogue,Jewish,Mitte,Metall_Stahl,no_information,no_information,0,0,1948
+m,History,Civilian,AntiWar,Mitte,Metall_Stahl,Breslau,other in Germany,1967,1894,0
+m,Culture,Architecture,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,History,Politics_Administration,other,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,History,Socialists,NovemberRevolution_Weimar,Mitte,Metall_Stahl,Leipzig,Berlin,1919,1871,1988
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,1997
+no person,Building,Architecture,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,2013
+m,Culture,Architecture,Prussian_times,Mitte,Metall_Stahl,other,Berlin,1841,1781,0
+no person,Nature,PublicPlaces_Buildings,no_specific_context,Moabit,Metall_Stahl,no_information,no_information,0,0,0
+m,History,Politics_Administration,no_specific_context,Tiergarten,Metall_Stahl,other,Berlin,1953,1884,1954
+no person,Nature,PublicPlaces_Buildings,no_specific_context,Tiergarten,Metall_Stahl,no_information,no_information,0,0,0
+m,History,CivilSocietyOrganisation,other,Gesundbrunnen,Metall_Stahl,other,Berlin,1989,1900,0
+no person,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,Berlin,Berlin,1876,1810,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,Berlin,Berlin,1851,1803,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,other,other in Germany,1805,1759,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,other,outside Germany,1794,1754,0
+m,Religion and Philosophy,other,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1831,1770,0
+m,Culture,Creative_Arts,no_specific_context,Mitte,Metall_Stahl,other,outside Germany,1827,0,0
+m,Culture,Creative_Arts,GDR_GDR_personality,Mitte,Metall_Stahl,Berlin,Berlin,1967,1894,0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Metall_Stahl,other,other in Germany,1884,1829,1999
+no person,History,CivilSocietyOrganisation,SocialPolicy_issues,Gesundbrunnen,Metall_Stahl,no_information,no_information,0,0,1989
+m,History,Civilian,NSresistance_persecuted,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,Metall_Stahl,no_information,no_information,0,0,2008
+m,Culture,Architecture,no_specific_context,Mitte,Metall_Stahl,other,Berlin,1879,1813,0
+no person,Building,Architecture,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,1995
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,History,Politics_Administration,other_countries,Mitte,Metall_Stahl,other,outside Germany,1968,1929,0
+no person,History,Politics_Administration,other_countries,Tiergarten,other,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,other_countries,Tiergarten,other,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Infokasten,no_information,no_information,0,0,2000
+no person,Building,Military_Police,AntiWar,Gesundbrunnen,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1990
+no person,Building,Education_School,other,Tiergarten,Metall_Stahl,no_information,no_information,0,0,0
+m,History,Politics_Administration,SocialPolicy_issues,Mitte,"Bronze, Messing, Kupfer",other,other in Germany,1883,1808,1992
+unspecified,History,Politics_Administration,AntiWar,Tiergarten,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+unspecified,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,no_information,no_information,0,0,2003
+unspecified,History,Civilian,NSresistance_persecuted,Wedding,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,History,Civilian,NSresistance_persecuted,Moabit,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,History,Socialists,NovemberRevolution_Weimar,Tiergarten,Stein,Leipzig,Berlin,1919,1871,0
+no person,History,Civilian,NSresistance_persecuted,Moabit,Metall_Stahl,no_information,no_information,0,0,0
+no person,History,Politics_Administration,other_countries,Tiergarten,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2003
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Infokasten,no_information,no_information,0,0,0
+no person,Building,Architecture,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Stein,no_information,no_information,0,0,0
+f,History,Politics_Administration,other_countries,Tiergarten,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,History,Civilian,NSresistance_persecuted,Moabit,Porzellan,no_information,no_information,0,0,2001
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1987
+no person,Building,Jewish_Synagogue,NSresistance_persecuted,Hansaviertel,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,History,Socialists,NSresistance_persecuted,Mitte,other,no_information,no_information,0,0,1995
+no person,Building,PublicPlaces_Buildings,GDR_GDR_personality,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2011
+no person,History,Politics_Administration,NSresistance_persecuted,Tiergarten,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2001
+groups of mixed gender,History,Socialists,NovemberRevolution_Weimar,Tiergarten,"Bronze, Messing, Kupfer",Leipzig,Berlin,1919,1871,0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+m,History,Medical,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Potsdam,Berlin,1925,1843,1999
+m,Business,Chairman_Business_Finances,other,Mitte,Porzellan,Berlin,Berlin,1932,1851,1995
+m,Building,Education_School,SocialPolicy_issues,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1853,1778,2001
+groups of mixed gender,History,Civilian,SocialPolicy_issues,Moabit,Metall_Stahl,no_information,no_information,0,0,2011
+no person,History,Politics_Administration,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1870
+no person,History,Politics_Administration,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1871
+no person,History,Politics_Administration,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1865
+no person,History,Politics_Administration,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,Building,Architecture,no_specific_context,Mitte,other,no_information,no_information,0,0,1997
+m,History,Christian_Church,SocialPolicy_issues,Tiergarten,Porzellan,other,other in Germany,1881,1808,1989
+m,Business,Chairman_Business_Finances,no_specific_context,Moabit,Metall_Stahl,other,Berlin,1886,1837,1955
+no person,History,Education_School,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2000
+no person,History,Military_Police,AntiWar,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,History,Civilian,GDRflight_victim,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2009
+m,History,Civilian,GDRflight_victim,Gesundbrunnen,"Bronze, Messing, Kupfer",other,Berlin,2001,1939,2011
+m,History,Civilian,GDRflight_victim,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1964,1943,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Stein,no_information,no_information,0,0,0
+f,History,CivilSocietyOrganisation,SocialPolicy_issues,Moabit,Acrylglas,no_information,no_information,0,0,0
+m,History,CivilSocietyOrganisation,other,Mitte,"Bronze, Messing, Kupfer",other,no_information,0,1778,0
+no person,Building,Christian_Church,no_specific_context,Mitte,other,no_information,no_information,0,0,1983
+no person,Building,PublicPlaces_Buildings,other_countries,Mitte,Acrylglas,no_information,no_information,0,0,2003
+no person,Building,Medical,other_countries,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1994
+no person,Building,Military_Police,AntiWar,Moabit,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2005
+m,History,Politics_Administration,Prussian_times,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1935
+no person,Building,Medical,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,Building,Christian_Church,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1987
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1987
+no person,Building,Education_School,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1991
+no person,Business,Chairman_Business_Finances,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2003
+m,Building,Architecture,no_specific_context,Wedding,"Bronze, Messing, Kupfer",Berlin,Berlin,1967,1894,0
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,Berlin,Berlin,1961,1937,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,other,Berlin,1961,1936,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,Berlin,Berlin,1961,1936,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,Berlin,Berlin,1961,1940,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,other,Berlin,1962,1942,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,other,Berlin,1962,1945,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,Berlin,Berlin,1962,1938,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,other,Berlin,1963,1941,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,Berlin,Berlin,0,1947,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,other,Berlin,1963,1940,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,other,Berlin,0,1917,2003
+f,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,other,other in Germany,1980,1962,2003
+m,History,Civilian,GDRflight_victim,Tiergarten,Mauerkreuz,other,Berlin,1989,1968,2003
+unspecified,History,Civilian,NSresistance_persecuted,Moabit,Metall_Stahl,no_information,no_information,0,0,2007
+no person,History,Civilian,AntiWar,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,History,Civilian,NovemberRevolution_Weimar,Gesundbrunnen,Stein,no_information,no_information,0,0,0
+m,History,Civilian,SocialPolicy_issues,Moabit,Stein,no_information,no_information,0,0,0
+unspecified,History,Civilian,NSresistance_persecuted,Gesundbrunnen,Stein,no_information,no_information,0,0,2004
+unspecified,History,Civilian,NSresistance_persecuted,Wedding,other,no_information,no_information,0,0,0
+groups of mixed gender,History,Civilian,GDRflight_victim,Mitte,Stein,no_information,no_information,0,0,1982
+unspecified,History,Civilian,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,History,Military_Police,AntiWar,Mitte,other,no_information,no_information,0,0,0
+m,History,Military_Police,AntiWar,Mitte,Stein,no_information,no_information,0,0,0
+m,History,Military_Police,other_countries,Wedding,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2005
+m,History,Military_Police,no_specific_context,Mitte,Stein,no_information,other in Germany,1813,1789,0
+no person,Building,Politics_Administration,no_specific_context,Mitte,other,no_information,no_information,0,0,1987
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,Stein,no_information,no_information,0,0,0
+no person,Business,Chairman_Business_Finances,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1995
+no person,Building,PublicPlaces_Buildings,no_specific_context,Moabit,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,Building,Politics_Administration,Jewish,Mitte,Acrylglas,no_information,no_information,0,0,1998
+m,History,Military_Police,GDRflight_victim,Mitte,Acrylglas,no_information,no_information,0,0,0
+m,History,Civilian,GDRflight_victim,Mitte,Acrylglas,Berlin,Berlin,1962,1944,0
+no person,History,Civilian,GDRflight_victim,Tiergarten,Acrylglas,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Tiergarten,Acrylglas,no_information,no_information,0,0,0
+no person,Building,Politics_Administration,no_specific_context,Tiergarten,Acrylglas,no_information,no_information,0,0,0
+no person,History,Politics_Administration,Wall_GermanUnity,Gesundbrunnen,Acrylglas,no_information,no_information,0,0,0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,Acrylglas,no_information,no_information,0,0,0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,Acrylglas,no_information,no_information,0,0,0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,Acrylglas,no_information,no_information,0,0,0
+m,History,Civilian,GDRflight_victim,Mitte,Acrylglas,Berlin,Berlin,1961,1937,2001
+m,History,Military_Police,GDRflight_victim,Mitte,Acrylglas,other,Berlin,1964,1943,0
+m,History,Military_Police,no_specific_context,Mitte,Acrylglas,other,Berlin,1962,1942,0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,Acrylglas,no_information,no_information,0,0,0
+no person,History,Politics_Administration,no_specific_context,Mitte,Acrylglas,no_information,no_information,0,0,1996
+no person,Business,Chairman_Business_Finances,Jewish,Mitte,Infokasten,no_information,no_information,0,0,2003
+no person,History,Civilian,GDRflight_victim,Gesundbrunnen,Infokasten,no_information,no_information,0,0,0
+no person,History,Military_Police,AntiWar,Moabit,other,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Gesundbrunnen,Porzellan,no_information,no_information,0,0,0
+no person,Building,Christian_Church,no_specific_context,Hansaviertel,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1955
+m,Culture,Creative_Arts,no_specific_context,Wedding,Stein,other,other in Germany,1832,1749,0
+no person,Building,Politics_Administration,no_specific_context,Mitte,other,no_information,no_information,0,0,0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,Stein,no_information,no_information,0,0,1994
+m,Building,Education_School,Jewish,Mitte,Stein,other,Berlin,1786,1729,0
+m,Building,Education_School,Jewish,Mitte,Metall_Stahl,other,Berlin,1786,1729,1983
+no person,Building,Politics_Administration,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1861
+no person,Building,PublicPlaces_Buildings,other,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1994
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1987
+m,History,Medical,NSresistance_persecuted,Tiergarten,Metall_Stahl,Berlin,other in Germany,1938,1875,1990
+groups of mixed gender,History,Socialists,NovemberRevolution_Weimar,Tiergarten,Metall_Stahl,Leipzig,Berlin,1919,1871,2010
+no person,Building,Architecture,no_specific_context,Hansaviertel,Stein,no_information,no_information,0,0,0
+no person,Building,Architecture,no_specific_context,Tiergarten,other,no_information,no_information,0,0,0
+unspecified,History,Civilian,NSresistance_persecuted,Moabit,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1990
+no person,Building,Jewish_Synagogue,no_specific_context,Hansaviertel,Metall_Stahl,no_information,no_information,0,0,1998
+no person,Building,PublicPlaces_Buildings,Jewish,Wedding,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+unspecified,Business,Chairman_Business_Finances,Jewish,Tiergarten,Porzellan,no_information,no_information,0,0,2011
+unspecified,History,Civilian,Jewish,Moabit,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+unspecified,History,Civilian,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1997
+unspecified,History,Civilian,Jewish,Moabit,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1968
+no person,Building,Medical,Jewish,Gesundbrunnen,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,Building,Medical,Jewish,Gesundbrunnen,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,Culture,Architecture,no_specific_context,Mitte,Porzellan,Berlin,Berlin,1936,1869,2000
+no person,Building,Christian_Church,no_specific_context,Mitte,Infokasten,no_information,no_information,0,0,2001
+m,Religion and Philosophy,Christian_Church,no_specific_context,Mitte,other,other,Berlin,0,0,1999
+no person,Building,Chairman_Business_Finances,Jewish,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1989
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,2000
+no person,Building,Chairman_Business_Finances,Prussian_times,Mitte,Acrylglas,no_information,no_information,0,0,2004
+unspecified,History,Medical,NSresistance_persecuted,Moabit,Porzellan,no_information,no_information,0,0,1997
+unspecified,History,Civilian,AntiWar,Mitte,Stein,no_information,no_information,0,0,1998
+unspecified,History,Civilian,AntiWar,Mitte,Stein,no_information,no_information,0,0,0
+no person,Building,Creative_Arts,no_specific_context,Tiergarten,Infokasten,no_information,no_information,0,0,0
+no person,Building,Politics_Administration,no_specific_context,Mitte,other,no_information,no_information,0,0,0
+no person,Building,Architecture,no_specific_context,Moabit,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+groups of mixed gender,History,Civilian,GDRflight_victim,Gesundbrunnen,Acrylglas,no_information,no_information,0,0,2009
+no person,Building,Jewish_Synagogue,NSresistance_persecuted,Tiergarten,Porzellan,no_information,no_information,0,0,1989
+f,Building,Education_School,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2005
+unspecified,History,Civilian,Prussian_times,Mitte,Acrylglas,no_information,no_information,0,0,0
+m,Building,Christian_Church,no_specific_context,Mitte,Stein,Berlin,Berlin,1798,1746,2002
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,Stein,Berlin,Berlin,1870,1802,0
+no person,Culture,Creative_Arts,no_specific_context,Mitte,Stein,other,outside Germany,1943,1873,0
+unspecified,History,Politics_Administration,Wall_GermanUnity,Gesundbrunnen,Metall_Stahl,no_information,no_information,0,0,1991
+unspecified,History,Civilian,AntiWar,Wedding,Stein,no_information,no_information,0,0,0
+f,Culture,Creative_Arts,no_specific_context,Mitte,Infokasten,other,other in Germany,2002,1909,0
+no person,History,Civilian,NSresistance_persecuted,Mitte,other,no_information,no_information,0,0,2001
+f,History,Socialists,NSresistance_persecuted,Moabit,other,Berlin,KZ or NS_capture,1943,1873,1997
+m,Culture,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1975,1901,1966
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Infokasten,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Moabit,Stein,no_information,no_information,0,0,0
+no person,Building,Military_Police,other,Mitte,Infokasten,no_information,no_information,0,0,0
+no person,Science and Research,Science_otherResearch,no_specific_context,Wedding,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,Building,Jewish_Synagogue,no_specific_context,Mitte,Stein,no_information,no_information,0,0,0
+no person,Building,Jewish_Synagogue,no_specific_context,Mitte,Stein,no_information,no_information,0,0,0
+m,Building,Architecture,no_specific_context,Mitte,Porzellan,other,Berlin,1932,1852,2002
+no person,Building,Architecture,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1983
+no person,Building,Architecture,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,Building,Christian_Church,no_specific_context,Mitte,Metall_Stahl,no_information,no_information,0,0,1987
+m,History,Socialists,NovemberRevolution_Weimar,Mitte,Metall_Stahl,other,outside Germany,1883,1818,1988
+no person,History,Socialists,NovemberRevolution_Weimar,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1980
+m,History,Politics_Administration,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2008
+m,History,Politics_Administration,Prussian_times,Mitte,Stein,no_information,no_information,0,0,0
+unspecified,History,Civilian,NSresistance_persecuted,Moabit,other,no_information,no_information,0,0,0
+unspecified,History,Civilian,AntiWar,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+unspecified,History,Civilian,AntiWar,Mitte,Stein,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Infokasten,no_information,no_information,0,0,0
+no person,Culture,Architecture,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,other,no_information,no_information,0,0,1951
+unspecified,History,Civilian,Jewish,Mitte,Metall_Stahl,no_information,no_information,0,0,1988
+no person,Building,Military_Police,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+unspecified,History,Civilian,NSresistance_persecuted,Gesundbrunnen,Porzellan,no_information,no_information,0,0,1995
+no person,Science and Research,PublicPlaces_Buildings,Prussian_times,Mitte,Metall_Stahl,no_information,no_information,0,0,0
+no person,Building,Politics_Administration,Prussian_times,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1999
+no person,History,Politics_Administration,Prussian_times,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1998
+no person,Building,Christian_Church,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,Building,Science_otherResearch,no_specific_context,Wedding,Acrylglas,other,Baden-Baden,1910,1843,0
+f,Building,Medical,no_specific_context,Mitte,other,no_information,no_information,0,0,0
+m,Religion and Philosophy,Politics_Administration,no_specific_context,Mitte,Metall_Stahl,other,other in Germany,1943,1875,1997
+no person,Building,Politics_Administration,Prussian_times,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1993
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1979
+m,Building,PublicPlaces_Buildings,other,Gesundbrunnen,"Bronze, Messing, Kupfer",other,other in Germany,1946,1873,1978
+no person,Building,Christian_Church,no_specific_context,Moabit,Stein,no_information,no_information,0,0,0
+m,Religion and Philosophy,Politics_Administration,no_specific_context,Gesundbrunnen,Stein,no_information,no_information,0,0,0
+no person,Building,Creative_Arts,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Gesundbrunnen,Stein,no_information,no_information,0,0,1992
+groups of mixed gender,Culture,Creative_Arts,no_specific_context,Mitte,Acrylglas,other,Berlin,1847,1809,2002
+m,Science and Research,Science_otherResearch,no_specific_context,Moabit,"Bronze, Messing, Kupfer",other,outside Germany,1955,1879,2012
+f,Religion and Philosophy,other,no_specific_context,Moabit,"Bronze, Messing, Kupfer",Breslau,KZ or NS_capture,1942,1891,0
+m,History,Civilian,NSresistance_persecuted,Moabit,"Bronze, Messing, Kupfer",other,KZ or NS_capture,1945,1903,0
+m,Science and Research,Science_otherResearch,no_specific_context,Moabit,"Bronze, Messing, Kupfer",other,other in Germany,1995,1910,0
+m,History,Politics_Administration,no_specific_context,Moabit,"Bronze, Messing, Kupfer",other,other in Germany,1977,1897,0
+m,Culture,Architecture,no_specific_context,Moabit,"Bronze, Messing, Kupfer",other,other in Germany,0,1886,0
+m,History,CivilSocietyOrganisation,no_specific_context,Moabit,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2002
+m,History,Politics_Administration,NovemberRevolution_Weimar,Moabit,"Bronze, Messing, Kupfer",Berlin,Berlin,1922,1867,2006
+m,Culture,Creative_Arts,NSresistance_persecuted,Moabit,"Bronze, Messing, Kupfer",other,Berlin,0,1903,2002
+no person,Building,Jewish_Synagogue,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1994
+no person,Building,Jewish_Synagogue,NSresistance_persecuted,Gesundbrunnen,Stein,no_information,no_information,0,0,0
+m,History,Civilian,GDRflight_victim,Mitte,Stein,Berlin,Berlin,1961,1939,0
+m,History,Civilian,GDRflight_victim,Mitte,Metall_Stahl,other,Berlin,1962,1921,0
+m,History,Civilian,GDRflight_victim,Mitte,Stein,Berlin,Berlin,1961,1937,2003
+f,History,Civilian,GDRflight_victim,Mitte,Stein,other,Berlin,1961,1881,0
+m,History,Civilian,GDRflight_victim,Mitte,Stein,Berlin,Berlin,1961,1937,0
+no person,History,CivilSocietyOrganisation,other,Wedding,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+no person,Building,Christian_Church,GDR_GDR_personality,Mitte,Acrylglas,no_information,no_information,0,0,2007
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2010
+no person,History,CivilSocietyOrganisation,SocialPolicy_issues,Mitte,Stein,no_information,no_information,0,0,1974
+no person,History,Politics_Administration,Prussian_times,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1998
+no person,History,Civilian,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1987
+no person,Building,PublicPlaces_Buildings,no_specific_context,Tiergarten,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2000
+no person,History,Civilian,GDRflight_victim,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2011
+no person,History,Civilian,GDRflight_victim,Mitte,Infokasten,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Wedding,Stein,no_information,no_information,0,0,0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Infokasten,no_information,no_information,0,0,0
+m,History,Politics_Administration,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,2008
+no person,History,CivilSocietyOrganisation,no_specific_context,Wedding,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,History,Civilian,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",other,Berlin,1942,1909,1995
+m,Building,PublicPlaces_Buildings,no_specific_context,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,0
+m,Religion and Philosophy,other,no_specific_context,Mitte,"Bronze, Messing, Kupfer",Leipzig,other in Germany,1716,0,1990
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,Stein,no_information,no_information,0,0,0
+no person,History,Politics_Administration,GDR_GDR_personality,Mitte,Acrylglas,no_information,no_information,0,0,1999
+no person,History,Socialists,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",Leipzig,Berlin,1919,1871,0
+no person,History,Socialists,NovemberRevolution_Weimar,Mitte,other,no_information,no_information,0,0,0
+unspecified,History,Politics_Administration,NSresistance_persecuted,Wedding,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1986
+unspecified,History,Politics_Administration,NSresistance_persecuted,Mitte,Acrylglas,no_information,no_information,0,0,2000
+m,History,Military_Police,NSresistance_persecuted,Mitte,"Bronze, Messing, Kupfer",no_information,no_information,0,0,1999

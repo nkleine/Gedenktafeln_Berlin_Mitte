@@ -1,0 +1,510 @@
+Gender,Category,Activity,Context,District,Made,Material,Name,Birthplace,Deathplace,Birthyear,Deathyear,Age
+f,Culture,Creative_Arts,NSresistance_persecuted,Tiergarten,,Metall_Stahl,Marlene Dietrich,other,outside Germany,1901.0,1992.0,91.0
+m,History,Politics_Administration,Prussian_times,Tiergarten,,"Bronze, Messing, Kupfer",Otto Braun,other,outside Germany,1872.0,1955.0,83.0
+m,History,Politics_Administration,NSresistance_persecuted,Mitte,1994.0,Porzellan,Johannes Popitz,Leipzig,KZ or NS_capture,1884.0,1945.0,61.0
+m,Culture,Creative_Arts,NovemberRevolution_Weimar,Moabit,,"Bronze, Messing, Kupfer",Kurt Tucholsky,Berlin,outside Germany,1890.0,1935.0,45.0
+m,History,Military_Police,NSresistance_persecuted,Mitte,1995.0,"Bronze, Messing, Kupfer",Wilhelm Krützfeld,other,Berlin,1880.0,1953.0,73.0
+m,Culture,Creative_Arts,NovemberRevolution_Weimar,Moabit,,"Bronze, Messing, Kupfer",Kurt Tucholsky,Berlin,outside Germany,1890.0,1935.0,45.0
+m,Culture,Creative_Arts,no_specific_context,Tiergarten,2007.0,Metall_Stahl,Carl Langhammer,Berlin,Berlin,1868.0,1943.0,75.0
+m,History,Medical,Jewish,Wedding,,"Bronze, Messing, Kupfer",Ludwig Ferdinand Meyer,other,outside Germany,1879.0,1954.0,75.0
+f,Science and Research,Education_School,NSresistance_persecuted,Wedding,1997.0,"Bronze, Messing, Kupfer",Clara Grunwald,other,KZ or NS_capture,1877.0,,
+m,History,Military_Police,no_specific_context,Tiergarten,,Stein,Constantin von Doppelmair (Doppelmeyer),no_information,no_information,,1871.0,
+f,History,Socialists,NSresistance_persecuted,Mitte,,Metall_Stahl,Krystana Janewa,no_information,KZ or NS_capture,,1944.0,
+f,Culture,Creative_Arts,NSresistance_persecuted,Hansaviertel,,Acrylglas,Selma Meerbaum-Eisinger,other,KZ or NS_capture,1924.0,1942.0,18.0
+f,History,PublicPlaces_Buildings,no_specific_context,Mitte,1995.0,other,Bona Peiser,Berlin,Berlin,1864.0,1929.0,65.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,1995.0,Porzellan,Walter Felsenstein,other,Berlin,1901.0,1975.0,74.0
+m,Religion and Philosophy,Christian_Church,other,Mitte,1994.0,Porzellan,Johann Peter Süßmilch,Berlin,Berlin,1707.0,1767.0,60.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1995.0,Porzellan,Martin Heinrich Klaproth,other,Berlin,1743.0,1817.0,74.0
+m,History,Politics_Administration,Prussian_times,Mitte,,"Bronze, Messing, Kupfer",Karl Reichsfreiherr vom und zum Stein,other,other in Germany,1757.0,1831.0,74.0
+m,Religion and Philosophy,Christian_Church,NSresistance_persecuted,Wedding,,"Bronze, Messing, Kupfer",Max Josef Metzger,other,KZ or NS_capture,1887.0,1944.0,57.0
+m,History,Politics_Administration,Prussian_times,Mitte,1996.0,Porzellan,Heinrich Runge,other,Berlin,1817.0,1886.0,69.0
+m,Business,Chairman_Business_Finances,other,Mitte,1996.0,Porzellan,Johann Ernst Gotzkowsky,other,Berlin,1710.0,1775.0,65.0
+m,Science and Research,Medical,no_specific_context,Mitte,1996.0,"Bronze, Messing, Kupfer",Louis Lewin,other,Berlin,1850.0,1929.0,79.0
+m,History,Politics_Administration,SocialPolicy_issues,Mitte,1997.0,"Bronze, Messing, Kupfer",Theodor Leipart,other,Berlin,1867.0,1947.0,80.0
+m,Culture,Creative_Arts,Prussian_times,Mitte,,Stein,Eduard Hildebrandt,other,Berlin,1817.0,1868.0,51.0
+m,Religion and Philosophy,Christian_Church,other,Mitte,,"Bronze, Messing, Kupfer",Emil Frommel,other,other in Germany,1828.0,1898.0,70.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1997.0,"Bronze, Messing, Kupfer",August Boeckh,other,Berlin,1785.0,1867.0,82.0
+m,History,Socialists,NSresistance_persecuted,Mitte,,"Bronze, Messing, Kupfer",Ewald Vogt,no_information,no_information,,,
+m,Religion and Philosophy,other,no_specific_context,Mitte,1997.0,"Bronze, Messing, Kupfer",Sören Kiekegaard,other,outside Germany,1813.0,1855.0,42.0
+f,Science and Research,Medical,no_specific_context,Mitte,1998.0,Metall_Stahl,Henriette Hirschfeld-Tiburtius,other,Berlin,1834.0,1911.0,77.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,1956.0,"Bronze, Messing, Kupfer",Heinrich Heine,other,outside Germany,1797.0,1856.0,59.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",Carl Friedrich Zelter,Berlin,Berlin,1758.0,1832.0,74.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",Theodor Körner,other,other in Germany,1791.0,1813.0,22.0
+groups of mixed gender,Culture,Creative_Arts,no_specific_context,Mitte,,"Bronze, Messing, Kupfer","Christian Gottfried Körner, Minna Körrner und Dora Stock",no_information,no_information,,,
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1998.0,"Bronze, Messing, Kupfer",Carl Abraham Gerhard,other,Berlin,1738.0,1821.0,83.0
+groups of mixed gender,Culture,Creative_Arts,no_specific_context,Mitte,,"Bronze, Messing, Kupfer","Elisa von der Recke, Christoph August Tiedge",other,other in Germany,1754.0,1833.0,79.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,1998.0,Porzellan,Karl Philipp Moritz alias Anton Reiser,other,Berlin,1756.0,1793.0,37.0
+m,Culture,Creative_Arts,GDR_GDR_personality,Mitte,,Stein,Max Butting,Berlin,Berlin,1888.0,1976.0,88.0
+m,History,Politics_Administration,other_countries,Mitte,1998.0,"Bronze, Messing, Kupfer",Alexander Michailowitsch Gortschakow,other,Baden-Baden,1798.0,1883.0,85.0
+m,Science and Research,Science_otherResearch,NSresistance_persecuted,Mitte,,Acrylglas,Philipp Schaeffer,other,Berlin,1894.0,1943.0,49.0
+m,Culture,Architecture,no_specific_context,Mitte,1999.0,Metall_Stahl,Peter Behrens,other,Berlin,1868.0,1940.0,72.0
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,,other,August Borsig,Breslau,Berlin,1804.0,1854.0,50.0
+groups of mixed gender,Culture,Creative_Arts,no_specific_context,Mitte,1978.0,"Bronze, Messing, Kupfer",Bertolt Brecht und Helenge Weigel,other,Berlin,1898.0,1956.0,58.0
+m,Science and Research,Medical,no_specific_context,Mitte,1999.0,"Bronze, Messing, Kupfer",Moritz Heinrich Romberg,other,Berlin,1795.0,1873.0,78.0
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,1999.0,"Bronze, Messing, Kupfer",Otto Weidt,other,Berlin,1883.0,1947.0,64.0
+m,Science and Research,Medical,no_specific_context,Mitte,,other,Robert Koch,other,Baden-Baden,1843.0,1910.0,67.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",Alexander von Humboldt,Berlin,Berlin,1769.0,1859.0,90.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,other,Theodor Fontane,other,Berlin,1819.0,1898.0,79.0
+m,Culture,Creative_Arts,other_countries,Mitte,2000.0,Metall_Stahl,Michail Iwanowitsch Glinka,other,Berlin,1804.0,1857.0,53.0
+m,Religion and Philosophy,Christian_Church,other,Mitte,2000.0,"Bronze, Messing, Kupfer",Ludwig Jonas,other,Berlin,1797.0,1859.0,62.0
+m,Culture,Creative_Arts,other_countries,Mitte,2000.0,"Bronze, Messing, Kupfer",Enrique Gil y Carrasco,other,no_information,1815.0,,
+m,History,Education_School,no_specific_context,Mitte,2001.0,"Bronze, Messing, Kupfer",Robert Frenzel,Berlin,other in Germany,1888.0,1977.0,89.0
+m,Culture,Creative_Arts,other_countries,Mitte,1952.0,Stein,Michael Iwanowitsch Glinka,other,Berlin,1804.0,1857.0,53.0
+m,History,Socialists,NSresistance_persecuted,Mitte,2001.0,Acrylglas,Herbert Baum,no_information,Berlin,,1942.0,
+m,History,Socialists,NSresistance_persecuted,Mitte,,Stein,Franz Mett,other,KZ or NS_capture,1904.0,1944.0,40.0
+m,Culture,Creative_Arts,no_specific_context,Wedding,,"Bronze, Messing, Kupfer",Paul Gurk,other,Berlin,1880.0,1953.0,73.0
+m,History,Politics_Administration,Prussian_times,Mitte,1996.0,Stein,Franz Bumm,other,Berlin,1861.0,1942.0,81.0
+f,Religion and Philosophy,Jewish_Synagogue,NSresistance_persecuted,Mitte,2001.0,Acrylglas,Regina Jonas,Berlin,KZ or NS_capture,1902.0,1944.0,42.0
+m,Culture,Creative_Arts,no_specific_context,Gesundbrunnen,,"Bronze, Messing, Kupfer",Theodor Plievier,Berlin,outside Germany,1892.0,1955.0,63.0
+m,History,Politics_Administration,NSresistance_persecuted,Wedding,,"Bronze, Messing, Kupfer",Kurt Schumacher,other,other in Germany,1898.0,1952.0,54.0
+m,Culture,Creative_Arts,Prussian_times,Mitte,,Stein,Carl Wilhelm Ramler,other,Berlin,1725.0,1798.0,73.0
+m,History,Politics_Administration,no_specific_context,Wedding,,"Bronze, Messing, Kupfer",Carl Leid,other,Berlin,1869.0,1935.0,66.0
+m,Culture,Creative_Arts,SocialPolicy_issues,Wedding,,"Bronze, Messing, Kupfer",Wilhelm Hasenclever,other,Berlin,1837.0,1889.0,52.0
+m,History,Military_Police,no_specific_context,Gesundbrunnen,,"Bronze, Messing, Kupfer",Erwin Schläger,no_information,Berlin,,1953.0,
+m,Religion and Philosophy,Christian_Church,no_specific_context,Mitte,,Stein,Christian Ernst Kühze (Kühtze),no_information,Berlin,1744.0,1801.0,57.0
+m,Science and Research,Education_School,no_specific_context,Wedding,,"Bronze, Messing, Kupfer",Bruno Stephan,no_information,no_information,1896.0,,
+f,Culture,Creative_Arts,no_specific_context,Mitte,,Stein,Anna Louisa Karsch (Karschin),other,Berlin,1722.0,1791.0,69.0
+m,Science and Research,Science_otherResearch,SocialPolicy_issues,Mitte,2002.0,Acrylglas,Leo Arons,Berlin,Berlin,1860.0,1919.0,59.0
+m,Science and Research,Science_otherResearch,GDR_GDR_personality,Mitte,1981.0,"Bronze, Messing, Kupfer",Karl Lohmann (Hans Karl Heinrich Adolf),other,Berlin,1898.0,1978.0,80.0
+m,Culture,Creative_Arts,no_specific_context,Wedding,1981.0,"Bronze, Messing, Kupfer",Jonny Liesegang (eigtl. Johannes Haasis),Berlin,Berlin,1897.0,1961.0,64.0
+m,History,Socialists,NSresistance_persecuted,Wedding,,"Bronze, Messing, Kupfer",Kurt Steffelbauer,other,Berlin,1890.0,1942.0,52.0
+m,History,Socialists,NSresistance_persecuted,Wedding,1951.0,other,Otto Lemm,no_information,no_information,,,
+f,History,CivilSocietyOrganisation,SocialPolicy_issues,Mitte,2003.0,"Bronze, Messing, Kupfer",Margarethe von Witzleben,other,Berlin,1853.0,1917.0,64.0
+m,History,CivilSocietyOrganisation,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",Bernd Unger,no_information,no_information,,,
+m,History,Politics_Administration,SocialPolicy_issues,Mitte,2003.0,Porzellan,Theodor Leipart,other,Berlin,1867.0,1947.0,80.0
+m,History,Socialists,NSresistance_persecuted,Mitte,1952.0,"Bronze, Messing, Kupfer",Ernst Thälmann,other,KZ or NS_capture,1886.0,1944.0,58.0
+m,Culture,Creative_Arts,other_countries,Mitte,,"Bronze, Messing, Kupfer",Franz Berwald,other,outside Germany,1796.0,1886.0,90.0
+m,Religion and Philosophy,Christian_Church,Prussian_times,Mitte,2000.0,Stein,Daniel Ernst Jablonski,other,Berlin,,1741.0,
+m,Culture,Creative_Arts,no_specific_context,Mitte,2009.0,Metall_Stahl,Siegfried Wilhelm Dehn,other,Berlin,1799.0,1858.0,59.0
+f,History,Civilian,NSresistance_persecuted,Gesundbrunnen,2003.0,"Bronze, Messing, Kupfer",Stephanie Hüllenhagen,no_information,Berlin,1893.0,1967.0,74.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,,Stein,Ludwig Bellermann,Berlin,Berlin,1836.0,1915.0,79.0
+m,History,Socialists,NovemberRevolution_Weimar,Tiergarten,2003.0,Acrylglas,Karl Liebknecht,Leipzig,Berlin,1871.0,1919.0,48.0
+m,History,Military_Police,other_countries,Tiergarten,2003.0,"Bronze, Messing, Kupfer",Nikolai Massalow,no_information,outside Germany,,2001.0,
+m,Science and Research,Science_otherResearch,Prussian_times,Mitte,2004.0,"Bronze, Messing, Kupfer",Alexander von Humboldt,Berlin,Berlin,1769.0,1859.0,90.0
+m,History,Politics_Administration,no_specific_context,Mitte,,Stein,Christian Koppe,no_information,no_information,,1721.0,
+m,History,Socialists,NSresistance_persecuted,Mitte,2005.0,"Bronze, Messing, Kupfer",Kurt Klinke,Berlin,Berlin,1910.0,1944.0,34.0
+m,Culture,Creative_Arts,SocialPolicy_issues,Tiergarten,2005.0,"Bronze, Messing, Kupfer",Ferdinand Lassalle,Breslau,outside Germany,1825.0,1864.0,39.0
+m,History,Politics_Administration,AntiWar,Tiergarten,2008.0,Acrylglas,Hellmuth von Gerlach,other,outside Germany,1866.0,1935.0,69.0
+m,History,Politics_Administration,GDR_GDR_personality,Mitte,,Stein,Wilhelm Pieck,other,Berlin,1876.0,1960.0,84.0
+m,History,Politics_Administration,no_specific_context,Mitte,1994.0,Porzellan,Konrad Adenauer,other,other in Germany,1876.0,1967.0,91.0
+m,History,Politics_Administration,AntiWar,Mitte,,Metall_Stahl,Hugo Haase,other,Berlin,1863.0,1919.0,56.0
+m,Culture,Creative_Arts,no_specific_context,Moabit,2010.0,Porzellan,Peter Anders,other,Berlin,1908.0,1954.0,46.0
+f,Culture,Creative_Arts,no_specific_context,Tiergarten,1990.0,Porzellan,Bettina von Arnim,other,Berlin,1785.0,1859.0,74.0
+f,Religion and Philosophy,Jewish_Synagogue,no_specific_context,Hansaviertel,2011.0,Porzellan,Marianne Awerbuch,no_information,no_information,,,
+m,History,Politics_Administration,Jewish,Mitte,,Porzellan,Victor Klemperer,other,other in Germany,1881.0,1960.0,79.0
+m,History,Socialists,NSresistance_persecuted,Gesundbrunnen,1991.0,Porzellan,Georg Benjamin,Berlin,KZ or NS_capture,1895.0,1942.0,47.0
+m,Culture,Creative_Arts,no_specific_context,Hansaviertel,1998.0,Porzellan,Lovis Corinth,other,other in Germany,1858.0,1925.0,67.0
+f,Science and Research,Medical,no_specific_context,Mitte,2006.0,Metall_Stahl,Emilie Lehmus und Franziska Tiburtius,other,Berlin,1841.0,1932.0,91.0
+m,Religion and Philosophy,Christian_Church,other,Gesundbrunnen,1991.0,Porzellan,Eduard Cortain,other,Berlin,1866.0,1936.0,70.0
+m,Religion and Philosophy,Christian_Church,other,Moabit,1990.0,Porzellan,Günther Dehn,other,other in Germany,1882.0,1970.0,88.0
+groups of mixed gender,History,Civilian,NSresistance_persecuted,Mitte,,Porzellan,"Max, Anneliese und Paula Dessauer, Frieda Rosenthal",no_information,no_information,,,
+m,History,Medical,no_specific_context,Wedding,1990.0,Porzellan,Salo Siegfried Drucker,other,KZ or NS_capture,1885.0,1940.0,55.0
+m,Religion and Philosophy,Jewish_Synagogue,Jewish,Mitte,2010.0,Porzellan,Abraham Geiger,other,Berlin,1810.0,1874.0,64.0
+m,Business,Chairman_Business_Finances,other,Tiergarten,2010.0,Porzellan,Ferdinand Möller,other,other in Germany,1882.0,1956.0,74.0
+m,History,Politics_Administration,no_specific_context,Tiergarten,2011.0,Porzellan,Herrmann Müller,other,Berlin,1876.0,1931.0,55.0
+m,History,Medical,NSresistance_persecuted,Moabit,1995.0,Porzellan,Georg Groscurth,other,KZ or NS_capture,1904.0,1944.0,40.0
+groups of mixed gender,History,Civilian,NSresistance_persecuted,Wedding,1989.0,Porzellan,Otto Hampel und Elise Hampel,other,Berlin,1897.0,1943.0,46.0
+f,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,1997.0,Porzellan,Katharina Heinroth,Breslau,Berlin,1897.0,1989.0,92.0
+m,Culture,Creative_Arts,other_countries,Mitte,,other,José Rizal,other,outside Germany,1861.0,1896.0,35.0
+m,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,1997.0,Porzellan,Oskar Heinroth,other,Berlin,1871.0,1945.0,74.0
+f,History,CivilSocietyOrganisation,Jewish,Mitte,2012.0,Acrylglas,Minna SchWar_PoliticalViolencez,other,Berlin,1859.0,1936.0,77.0
+m,History,Politics_Administration,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",Wilhelm Krausnick,Potsdam,Berlin,1797.0,1882.0,85.0
+m,Religion and Philosophy,Jewish_Synagogue,Jewish,Mitte,2010.0,Porzellan,Israel Jacobson,other,Berlin,1768.0,1828.0,60.0
+m,Culture,Architecture,no_specific_context,Mitte,2007.0,"Bronze, Messing, Kupfer",Herrmann Waesemann,other,Berlin,1813.0,1879.0,66.0
+m,Science and Research,Medical,no_specific_context,Mitte,2003.0,"Bronze, Messing, Kupfer",Paul Ferdinand Strassmann,Berlin,outside Germany,1866.0,1938.0,72.0
+m,History,Politics_Administration,no_specific_context,Moabit,2011.0,Porzellan,Ernst Kaeber,other,Berlin,1882.0,1961.0,79.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,2010.0,Porzellan,Walter Kollo und Willi Kollo,other,Berlin,1878.0,1940.0,62.0
+f,Culture,Creative_Arts,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",Rahel Varnhagen von Ense,Berlin,Berlin,1771.0,1803.0,32.0
+m,History,Medical,no_specific_context,Mitte,1908.0,Stein,Albrecht von Graefe,no_information,no_information,1828.0,1870.0,42.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1908.0,Stein,Herrmann Ludwig Ferdinand von Helmholtz,Potsdam,other in Germany,1821.0,1894.0,73.0
+m,History,CivilSocietyOrganisation,SocialPolicy_issues,Mitte,1988.0,Porzellan,Constantin Liebich,no_information,no_information,1847.0,,
+m,Science and Research,Science_otherResearch,no_specific_context,Gesundbrunnen,,Stein,Alexander von Humboldt,Berlin,Berlin,1769.0,1859.0,90.0
+f,Culture,Creative_Arts,NSresistance_persecuted,Mitte,1979.0,Metall_Stahl,Oda Schottmüller,other,Berlin,1905.0,1943.0,38.0
+m,Culture,Creative_Arts,Prussian_times,Mitte,2011.0,Porzellan,Friedrich Nicolai,Berlin,Berlin,1733.0,1811.0,78.0
+m,History,Socialists,NSresistance_persecuted,Mitte,,Metall_Stahl,Rudolf Lunau,no_information,no_information,,,
+m,Religion and Philosophy,Christian_Church,NSresistance_persecuted,Wedding,1998.0,Porzellan,Harald Poelchau,Potsdam,Berlin,1903.0,1972.0,69.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,1994.0,Metall_Stahl,Jakob van Hoddis,Berlin,other in Germany,1887.0,1942.0,55.0
+m,Religion and Philosophy,Christian_Church,no_specific_context,Gesundbrunnen,,Porzellan,Georg Puchowski,Berlin,Berlin,1892.0,1967.0,75.0
+m,Culture,Creative_Arts,no_specific_context,Gesundbrunnen,1992.0,Porzellan,Bernhard Rose,no_information,no_information,1865.0,,
+m,Culture,Creative_Arts,no_specific_context,Gesundbrunnen,,Metall_Stahl,Harald Juhnke,Berlin,other in Germany,1929.0,2005.0,76.0
+m,Business,Creative_Arts,other,Mitte,2008.0,Porzellan,Alfred Rotter und Fritz Rotter,no_information,no_information,,,
+m,Religion and Philosophy,Chairman_Business_Finances,NSresistance_persecuted,Gesundbrunnen,,"Bronze, Messing, Kupfer",Heinz Galinski,other,Berlin,1912.0,1992.0,80.0
+f,Culture,Creative_Arts,NSresistance_persecuted,Hansaviertel,1995.0,Porzellan,Nelly Sachs,other,outside Germany,1891.0,1970.0,79.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",Max Reinhardt,other,outside Germany,1873.0,1943.0,70.0
+m,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,1989.0,Porzellan,Carl Scheibler,other,Berlin,1827.0,1899.0,72.0
+f,History,Civilian,NSresistance_persecuted,Moabit,1996.0,Porzellan,Helene von Schell,no_information,no_information,,,
+m,Science and Research,Medical,no_specific_context,Mitte,1992.0,"Bronze, Messing, Kupfer","Ismair Boas, Geheimrat Prof. Dr. Med.",other,outside Germany,1858.0,1938.0,80.0
+m,Business,Chairman_Business_Finances,no_specific_context,Wedding,1988.0,Porzellan,Ernst Schering,other,Berlin,1824.0,1889.0,65.0
+m,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,2002.0,Porzellan,Werner Schröder,other,Berlin,1907.0,1985.0,78.0
+m,Science and Research,Science_otherResearch,no_specific_context,Gesundbrunnen,,Metall_Stahl,Paul Nipkow,other,Berlin,1860.0,1940.0,80.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,2009.0,Porzellan,Friedrich Albert SchWar_PoliticalViolencetz,Berlin,Berlin,1836.0,1906.0,70.0
+m,Science and Research,Science_otherResearch,GDRflight_victim,Gesundbrunnen,2010.0,Metall_Stahl,Reinhard Alfred Furrer,other,no_information,1940.0,,
+m,Business,Chairman_Business_Finances,no_specific_context,Gesundbrunnen,1989.0,Porzellan,Louis SchWar_PoliticalViolencetzkopff,other,Berlin,1825.0,1892.0,67.0
+groups of mixed gender,History,Civilian,NSresistance_persecuted,Mitte,1999.0,"Bronze, Messing, Kupfer",Moritz und Ulla Rosenthal,other,KZ or NS_capture,1883.0,1944.0,61.0
+m,History,Civilian,NSresistance_persecuted,Mitte,,"Bronze, Messing, Kupfer",Gustav Elfert,Berlin,Berlin,1886.0,1945.0,59.0
+m,History,Politics_Administration,no_specific_context,Moabit,1989.0,Porzellan,Siegbert Springer,other,Berlin,1882.0,1938.0,56.0
+m,History,CivilSocietyOrganisation,other,Gesundbrunnen,,"Bronze, Messing, Kupfer",Werner Kluge,no_information,no_information,,,
+m,Culture,Creative_Arts,other_countries,Tiergarten,2011.0,Porzellan,Mark Twain (Samuel Langhorne Clemens),other,outside Germany,1835.0,1910.0,75.0
+m,Religion and Philosophy,Christian_Church,other,Gesundbrunnen,,Stein,Phillip Wilhelm Moritz Boegehold,other,Berlin,1815.0,1873.0,58.0
+m,Science and Research,Medical,no_specific_context,Wedding,1988.0,Porzellan,Rudolf Virchow,other,Berlin,1821.0,1902.0,81.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,,Stein,Günter Ammon,Berlin,Berlin,1918.0,1995.0,77.0
+m,Science and Research,Education_School,no_specific_context,Mitte,1998.0,"Bronze, Messing, Kupfer",Wilhelm von Humboldt,Potsdam,Berlin,1767.0,1835.0,68.0
+m,Culture,Creative_Arts,other,Hansaviertel,,"Bronze, Messing, Kupfer",Stifter Henry H. Reichhold,Berlin,outside Germany,,1989.0,
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,1997.0,"Bronze, Messing, Kupfer",Adolf Jarislowsky,other,Berlin,1855.0,1933.0,78.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1965.0,"Bronze, Messing, Kupfer",Albert Einstein,other,outside Germany,1879.0,1955.0,76.0
+m,History,Medical,no_specific_context,Hansaviertel,,Metall_Stahl,Albrecht von Graefe,no_information,no_information,1828.0,1870.0,42.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,,Metall_Stahl,Leonhard Euler,other,outside Germany,1707.0,1783.0,76.0
+m,Religion and Philosophy,Christian_Church,other,Mitte,1985.0,Metall_Stahl,Friedrich Daniel Ernst Schleiermacher,Breslau,Berlin,1768.0,1834.0,66.0
+m,Religion and Philosophy,other,no_specific_context,Mitte,,Metall_Stahl,Georg Wilhelm Friedrich Hegel,other,Berlin,1770.0,1831.0,61.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1994.0,Metall_Stahl,Albert Einstein,other,outside Germany,1879.0,1955.0,76.0
+m,History,Politics_Administration,SocialPolicy_issues,Hansaviertel,,Metall_Stahl,Oswald Schumann,other,Berlin,1865.0,1939.0,74.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Ernst Theodor Amadeus Hoffmann (E.T.A.Hoffmann),other,Berlin,1776.0,1822.0,46.0
+m,History,Medical,no_specific_context,Mitte,,Metall_Stahl,Christoph Wilhelm Hufeland,other,Berlin,1762.0,1836.0,74.0
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,1997.0,Metall_Stahl,David Hansemann,other,other in Germany,1790.0,1864.0,74.0
+m,Culture,Architecture,Prussian_times,Mitte,,Metall_Stahl,Karl Friedrich Schinkel,other,Berlin,1781.0,1841.0,60.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Gottfried Keller,other,outside Germany,1819.0,1890.0,71.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Heinrich von Kleist,other,Berlin,1777.0,1811.0,34.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1980.0,Metall_Stahl,"Alfred Wegener, Prof. Dr.",Berlin,outside Germany,1880.0,,
+m,Science and Research,Medical,no_specific_context,Mitte,1982.0,Metall_Stahl,Robert Koch,other,Baden-Baden,1843.0,1910.0,67.0
+m,Culture,Creative_Arts,NSresistance_persecuted,Moabit,,Metall_Stahl,Carl von Ossietzky,other,Berlin,1889.0,1938.0,49.0
+groups of mixed gender,History,Civilian,NSresistance_persecuted,Mitte,,Metall_Stahl,Sala Kochmann und Martin Kochmann,no_information,no_information,,,
+m,History,Socialists,NSresistance_persecuted,Mitte,,Metall_Stahl,Franz Mett,other,KZ or NS_capture,1904.0,1944.0,40.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Gotthold Ephraim Lessing,other,other in Germany,1729.0,1781.0,52.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Max Liebermann,Berlin,Berlin,1847.0,1935.0,88.0
+m,History,Politics_Administration,NSresistance_persecuted,Mitte,,Metall_Stahl,Hans Litten,other,KZ or NS_capture,1903.0,1938.0,35.0
+m,History,Politics_Administration,no_specific_context,Wedding,,Metall_Stahl,Friedrich Krause,other,Berlin,1856.0,1925.0,69.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Albert Lortzing,Berlin,Berlin,1803.0,1851.0,48.0
+m,Science and Research,Medical,no_specific_context,Mitte,,Metall_Stahl,Walter Stoeckel,other,Berlin,1871.0,1961.0,90.0
+m,History,Politics_Administration,no_specific_context,Moabit,,Metall_Stahl,"Fritz Schloss, Dr.",Berlin,Berlin,1895.0,1954.0,59.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1983.0,Metall_Stahl,Walther Nernst und Max Bodenstein,other,Berlin,1864.0,1941.0,77.0
+m,Religion and Philosophy,Christian_Church,NSresistance_persecuted,Mitte,2000.0,Metall_Stahl,Dietrich Bonhoeffer,Breslau,other in Germany,1906.0,1945.0,39.0
+m,History,CivilSocietyOrganisation,other,Moabit,2003.0,Metall_Stahl,Gerhard Schlegel,no_information,no_information,,,
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Christoph Friedrich Nicolai,Berlin,Berlin,1733.0,1811.0,78.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,,Metall_Stahl,Max Planck,other,other in Germany,1858.0,1947.0,89.0
+m,History,Politics_Administration,no_specific_context,Moabit,,Metall_Stahl,Hans (Johnny) Klein,other,other in Germany,1931.0,1996.0,65.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Johann Gottfried Schadow,Berlin,Berlin,1764.0,1850.0,86.0
+m,Science and Research,Science_otherResearch,NSresistance_persecuted,Mitte,,Metall_Stahl,Philipp Schaeffer,other,Berlin,1894.0,1943.0,49.0
+f,History,Civilian,no_specific_context,Moabit,,Metall_Stahl,Klara Franke,no_information,no_information,,,
+m,History,Politics_Administration,other_countries,Gesundbrunnen,1986.0,Metall_Stahl,Robert Schumann,other,outside Germany,1886.0,1963.0,77.0
+f,Science and Research,Science_otherResearch,no_specific_context,Moabit,,Metall_Stahl,Lydia Rabinowitsch-Kempner,other,Berlin,1871.0,1935.0,64.0
+f,Religion and Philosophy,Chairman_Business_Finances,other,Moabit,1952.0,Metall_Stahl,Mathilde Kirschner,Berlin,Berlin,1875.0,1951.0,76.0
+f,Science and Research,Science_otherResearch,NSresistance_persecuted,Moabit,2007.0,Metall_Stahl,Sabine Spielrein,other,other in Germany,1885.0,1942.0,57.0
+m,Science and Research,Science_otherResearch,NSresistance_persecuted,Mitte,,Metall_Stahl,"Walther Arndt, Professor Dr. Med. Dr. Phil.",other,KZ or NS_capture,1891.0,1944.0,53.0
+m,History,Civilian,GDRflight_victim,Moabit,1999.0,Metall_Stahl,Wolfgang Scheunemann,Berlin,Berlin,1933.0,1948.0,15.0
+m,History,Politics_Administration,NSresistance_persecuted,Mitte,2009.0,Metall_Stahl,Hans Litten,other,KZ or NS_capture,1903.0,1938.0,35.0
+groups of mixed gender,Science and Research,Science_otherResearch,no_specific_context,Mitte,,Metall_Stahl,Otto Hahn und Lise Meitner,other,outside Germany,1879.0,1968.0,89.0
+m,History,CivilSocietyOrganisation,SocialPolicy_issues,Wedding,,Metall_Stahl,Carl Laux,no_information,no_information,1869.0,,
+m,History,Socialists,NSresistance_persecuted,Mitte,2000.0,Metall_Stahl,Robert Havemann,other,other in Germany,1910.0,1982.0,72.0
+m,Religion and Philosophy,Christian_Church,SocialPolicy_issues,Wedding,,Metall_Stahl,Carl Schlegel,no_information,other in Germany,1853.0,1944.0,91.0
+m,History,Medical,no_specific_context,Gesundbrunnen,1988.0,Metall_Stahl,Eduard Solger,no_information,no_information,1834.0,,
+f,History,Politics_Administration,no_specific_context,Wedding,,Metall_Stahl,Erika Hess,other,Berlin,1934.0,1986.0,52.0
+m,Religion and Philosophy,Politics_Administration,no_specific_context,Mitte,,Metall_Stahl,Philipp Jacob Spener,other,Berlin,,1705.0,
+m,Culture,Creative_Arts,no_specific_context,Tiergarten,,Metall_Stahl,Hans Albers,other,no_information,1891.0,,
+m,History,Politics_Administration,NovemberRevolution_Weimar,Wedding,,Metall_Stahl,Friedrich Ebert,other,Berlin,1871.0,1925.0,54.0
+m,History,Politics_Administration,SocialPolicy_issues,Wedding,,Metall_Stahl,Gustav Dietrich,no_information,no_information,1851.0,,
+m,Business,Chairman_Business_Finances,no_specific_context,Wedding,,Metall_Stahl,Hans-Jürgen-Hamann-Haus,no_information,no_information,,,
+m,History,CivilSocietyOrganisation,SocialPolicy_issues,Wedding,,Metall_Stahl,Hermann Gilka,no_information,no_information,,,
+m,Science and Research,Science_otherResearch,no_specific_context,Wedding,,Metall_Stahl,Hugo Thiel,other,Berlin,1839.0,1918.0,79.0
+m,Religion and Philosophy,Christian_Church,NSresistance_persecuted,Tiergarten,,Metall_Stahl,Dietrich Bonhoeffer,Breslau,other in Germany,1906.0,1945.0,39.0
+m,Business,Chairman_Business_Finances,other,Tiergarten,,Metall_Stahl,James Henry Simon,Berlin,Berlin,1851.0,1932.0,81.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,1900.0,Metall_Stahl,August Eduard Grell,Berlin,Berlin,1800.0,1886.0,86.0
+f,History,Politics_Administration,no_specific_context,Wedding,,Metall_Stahl,Louise Schroeder,other,Berlin,1887.0,1957.0,70.0
+m,Religion and Philosophy,Christian_Church,other,Mitte,1957.0,Metall_Stahl,Paul Gerhardt,other,other in Germany,,,
+m,Science and Research,Science_otherResearch,no_specific_context,Wedding,,Metall_Stahl,"Max Delbrück, Dr.Dr.Ing.eh.",other,Berlin,1850.0,1919.0,69.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,1962.0,Metall_Stahl,Johann Crüger,other,Berlin,,,
+m,Religion and Philosophy,Christian_Church,other,Mitte,,Metall_Stahl,Friedrich Daniel Ernst Schleiermacher,Breslau,Berlin,1768.0,1834.0,66.0
+m,History,Chairman_Business_Finances,Jewish,Mitte,1948.0,Metall_Stahl,Model Riess (auch Mordechai Model),no_information,no_information,,,
+m,History,Politics_Administration,NovemberRevolution_Weimar,Wedding,,Metall_Stahl,Walther Rathenau,Berlin,Berlin,1867.0,1922.0,55.0
+m,Science and Research,Medical,no_specific_context,Mitte,1982.0,Metall_Stahl,Robert Koch,other,Baden-Baden,1843.0,1910.0,67.0
+m,Science and Research,Medical,no_specific_context,Mitte,1996.0,Metall_Stahl,Emit Du Bois-Reymond,Berlin,Berlin,1818.0,1896.0,78.0
+m,Science and Research,Medical,SocialPolicy_issues,Hansaviertel,1994.0,Metall_Stahl,Magnus Hirschfeld,other,other in Germany,1868.0,1935.0,67.0
+m,Religion and Philosophy,Jewish_Synagogue,Jewish,Moabit,2001.0,Metall_Stahl,Menachem Mendel Schneerson,other,outside Germany,1902.0,1994.0,92.0
+f,History,Civilian,NSresistance_persecuted,Mitte,2001.0,Metall_Stahl,"Ilse Goldschmidt, geb. Schindler",Berlin,KZ or NS_capture,1892.0,1944.0,52.0
+m,Culture,Creative_Arts,no_specific_context,Tiergarten,,Metall_Stahl,Philipp Spitta,other,Berlin,1841.0,1884.0,43.0
+m,History,Military_Police,other,Tiergarten,,Metall_Stahl,Christian Wirth,no_information,no_information,,,
+unspecified,History,Civilian,GDRflight_victim,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,Culture,Creative_Arts,no_specific_context,Mitte,2002.0,Metall_Stahl,Bertolt Brecht,no_information,no_information,,,
+no person,Building,Architecture,no_specific_context,Mitte,1999.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Military_Police,other,Mitte,2003.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,History,Civilian,AntiWar,Mitte,1993.0,Metall_Stahl,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,AntiWar,Mitte,1993.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Politics_Administration,SocialPolicy_issues,Gesundbrunnen,1988.0,Metall_Stahl,Hugo Heimann,other,outside Germany,1859.0,1950.0,91.0
+no person,History,Civilian,NSresistance_persecuted,Mitte,,Metall_Stahl,Lisa Schaefer und weitere Sponsoren,no_information,no_information,,,
+no person,Culture,Creative_Arts,NSresistance_persecuted,Mitte,1995.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,History,Civilian,Wall_GermanUnity,Tiergarten,1991.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,2002.0,Metall_Stahl,Paul Wittig,other,Berlin,1853.0,1943.0,90.0
+m,History,Politics_Administration,no_specific_context,Mitte,2002.0,Metall_Stahl,Gustav Kemmann,no_information,no_information,1858.0,,
+no person,History,CivilSocietyOrganisation,other,Mitte,1998.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,History,Civilian,GDRflight_victim,Mitte,1993.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Politics_Administration,Prussian_times,Mitte,1998.0,Metall_Stahl,Levin Weiß,no_information,no_information,,,
+no person,History,Civilian,Prussian_times,Mitte,1998.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,History,Civilian,Prussian_times,Mitte,1998.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Civilian,Prussian_times,Mitte,1998.0,Metall_Stahl,Student von Bojanowsky,no_information,no_information,,,
+no person,History,Civilian,Prussian_times,Mitte,1998.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Civilian,Prussian_times,Mitte,1998.0,Metall_Stahl,Herrmann von Holzendorff,no_information,no_information,,,
+no person,History,Civilian,Prussian_times,Mitte,1998.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,Science and Research,Medical,no_specific_context,Mitte,1998.0,Metall_Stahl,Rudolf Virchow,no_information,no_information,,,
+m,History,Civilian,Prussian_times,Mitte,1999.0,Metall_Stahl,Ernst Zinna,Berlin,Berlin,1830.0,1848.0,18.0
+m,History,Civilian,Prussian_times,Mitte,1999.0,Metall_Stahl,"August Brass, Landwehrmann, Friedrich Ludwig Urban, Tierarzt",no_information,no_information,,,
+no person,History,Civilian,Prussian_times,Mitte,2000.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Architecture,no_specific_context,Moabit,,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,no_specific_context,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Christian_Church,no_specific_context,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,Jewish,Mitte,2000.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,Jewish,Mitte,1948.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Civilian,AntiWar,Mitte,,Metall_Stahl,Ernst Friedrich,Breslau,other in Germany,1894.0,1967.0,73.0
+m,Culture,Architecture,no_specific_context,Mitte,,Metall_Stahl,"Heinz Hilmer, Christoph Sattler, Thomas Albrecht, Peter Selling",no_information,no_information,,,
+no person,History,Politics_Administration,other,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Socialists,NovemberRevolution_Weimar,Mitte,1988.0,Metall_Stahl,Karl Liebknecht,Leipzig,Berlin,1871.0,1919.0,48.0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,Business,Chairman_Business_Finances,no_specific_context,Mitte,1997.0,Metall_Stahl,Joseph und Abraham Mendelssohn,no_information,no_information,,,
+no person,Building,Architecture,no_specific_context,Mitte,2013.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,Culture,Architecture,Prussian_times,Mitte,,Metall_Stahl,Karl Friedrich Schinkel,other,Berlin,1781.0,1841.0,60.0
+no person,Nature,PublicPlaces_Buildings,no_specific_context,Moabit,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Politics_Administration,no_specific_context,Tiergarten,1954.0,Metall_Stahl,Ernst Reuter,other,Berlin,1884.0,1953.0,69.0
+no person,Nature,PublicPlaces_Buildings,no_specific_context,Tiergarten,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,CivilSocietyOrganisation,other,Gesundbrunnen,,Metall_Stahl,Hanne Sobek,other,Berlin,1900.0,1989.0,89.0
+no person,Science and Research,Science_otherResearch,no_specific_context,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Adolf Glasbrenner,Berlin,Berlin,1810.0,1876.0,66.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Albert Lortzing,Berlin,Berlin,1803.0,1851.0,48.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Friedrich von Schiller,other,other in Germany,1759.0,1805.0,46.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,,Metall_Stahl,Georg Foster,other,outside Germany,1754.0,1794.0,40.0
+m,Religion and Philosophy,other,no_specific_context,Mitte,,Metall_Stahl,Georg Wilhelm Friedrich Hegel,other,Berlin,1770.0,1831.0,61.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,,Metall_Stahl,Ludwig van Beethoven,other,outside Germany,,1827.0,
+m,Culture,Creative_Arts,GDR_GDR_personality,Mitte,,Metall_Stahl,Otto Nagel,Berlin,Berlin,1894.0,1967.0,73.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,1999.0,Metall_Stahl,Alfred Edmund Brehm,other,other in Germany,1829.0,1884.0,55.0
+no person,History,CivilSocietyOrganisation,SocialPolicy_issues,Gesundbrunnen,1989.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Civilian,NSresistance_persecuted,Mitte,,Metall_Stahl,Selmar Kaufmann,no_information,no_information,,,
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,,Metall_Stahl,markiert den Verlauf der äußeren Mauer zu West-Berlin,no_information,no_information,,,
+m,Science and Research,Science_otherResearch,no_specific_context,Tiergarten,2008.0,Metall_Stahl,"Karl Abraham, Ernst Simmel, Max Eitingon",no_information,no_information,,,
+m,Culture,Architecture,no_specific_context,Mitte,,Metall_Stahl,Herrmann Waesemann,other,Berlin,1813.0,1879.0,66.0
+no person,Building,Architecture,no_specific_context,Mitte,1995.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Politics_Administration,other_countries,Mitte,,Metall_Stahl,"Martin Luther King, Dr.",other,outside Germany,1929.0,1968.0,39.0
+no person,History,Politics_Administration,other_countries,Tiergarten,,other,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,other_countries,Tiergarten,,other,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,2000.0,Infokasten,no_Name,no_information,no_information,,,
+no person,Building,Military_Police,AntiWar,Gesundbrunnen,1990.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Education_School,other,Tiergarten,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Politics_Administration,SocialPolicy_issues,Mitte,1992.0,"Bronze, Messing, Kupfer",Herman Schulze-Delitzsch,other,other in Germany,1808.0,1883.0,75.0
+unspecified,History,Politics_Administration,AntiWar,Tiergarten,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+unspecified,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,NSresistance_persecuted,Wedding,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Civilian,NSresistance_persecuted,Moabit,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Socialists,NovemberRevolution_Weimar,Tiergarten,,Stein,Karl Liebknecht,Leipzig,Berlin,1871.0,1919.0,48.0
+no person,History,Civilian,NSresistance_persecuted,Moabit,,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,other_countries,Tiergarten,2003.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,Infokasten,no_Name,no_information,no_information,,,
+no person,Building,Architecture,no_specific_context,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,Stein,no_Name,no_information,no_information,,,
+f,History,Politics_Administration,other_countries,Tiergarten,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Civilian,NSresistance_persecuted,Moabit,2001.0,Porzellan,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,1987.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,NSresistance_persecuted,Hansaviertel,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Socialists,NSresistance_persecuted,Mitte,1995.0,other,"Julius Leber, Adolf Reichwein, Franz Jacob, Anton Saefkow, Ferdinand Thomas",no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,GDR_GDR_personality,Mitte,2011.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,NSresistance_persecuted,Tiergarten,2001.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+groups of mixed gender,History,Socialists,NovemberRevolution_Weimar,Tiergarten,,"Bronze, Messing, Kupfer","Rosa Luxemburg, Karl Liebknecht",Leipzig,Berlin,1871.0,1919.0,48.0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Medical,no_specific_context,Mitte,1999.0,"Bronze, Messing, Kupfer",Julius Hirschberg,Potsdam,Berlin,1843.0,1925.0,82.0
+m,Business,Chairman_Business_Finances,other,Mitte,1995.0,Porzellan,James Henry Simon,Berlin,Berlin,1851.0,1932.0,81.0
+m,Building,Education_School,SocialPolicy_issues,Mitte,2001.0,"Bronze, Messing, Kupfer",Johann August Zeune,other,Berlin,1778.0,1853.0,75.0
+groups of mixed gender,History,Civilian,SocialPolicy_issues,Moabit,2011.0,Metall_Stahl,"Magnus Hirschfeld, Dr., Karl Heinrich Ulrichs, Anita Augspurg",no_information,no_information,,,
+no person,History,Politics_Administration,no_specific_context,Mitte,1870.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,no_specific_context,Mitte,1871.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,no_specific_context,Mitte,1865.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,NSresistance_persecuted,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Architecture,no_specific_context,Mitte,1997.0,other,no_Name,no_information,no_information,,,
+m,History,Christian_Church,SocialPolicy_issues,Tiergarten,1989.0,Porzellan,Johann Hinrich Wichern,other,other in Germany,1808.0,1881.0,73.0
+m,Business,Chairman_Business_Finances,no_specific_context,Moabit,1955.0,Metall_Stahl,Ludwig Loewe,other,Berlin,1837.0,1886.0,49.0
+no person,History,Education_School,NSresistance_persecuted,Mitte,2000.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Military_Police,AntiWar,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,History,Civilian,GDRflight_victim,Mitte,2009.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Civilian,GDRflight_victim,Gesundbrunnen,2011.0,"Bronze, Messing, Kupfer",Wolfgang Fuchs,other,Berlin,1939.0,2001.0,62.0
+m,History,Civilian,GDRflight_victim,Mitte,,"Bronze, Messing, Kupfer",Egon Schultz,other,Berlin,1943.0,1964.0,21.0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,Stein,no_Name,no_information,no_information,,,
+f,History,CivilSocietyOrganisation,SocialPolicy_issues,Moabit,,Acrylglas,Ingeborg Bergemann,no_information,no_information,,,
+m,History,CivilSocietyOrganisation,other,Mitte,,"Bronze, Messing, Kupfer",Friedrich Ludwig Jahn,other,no_information,1778.0,,
+no person,Building,Christian_Church,no_specific_context,Mitte,1983.0,other,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,other_countries,Mitte,2003.0,Acrylglas,no_Name,no_information,no_information,,,
+no person,Building,Medical,other_countries,Mitte,1994.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Military_Police,AntiWar,Moabit,2005.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Politics_Administration,Prussian_times,Mitte,1935.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Medical,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Christian_Church,no_specific_context,Mitte,1987.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,1987.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Education_School,no_specific_context,Mitte,1991.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Business,Chairman_Business_Finances,no_specific_context,Mitte,2003.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,Building,Architecture,no_specific_context,Wedding,,"Bronze, Messing, Kupfer",Otto Nagel,Berlin,Berlin,1894.0,1967.0,73.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Günter Litfin,Berlin,Berlin,1937.0,1961.0,24.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Udo Düllick,other,Berlin,1936.0,1961.0,25.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Werner Probst,Berlin,Berlin,1936.0,1961.0,25.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Ingo Krüger,Berlin,Berlin,1940.0,1961.0,21.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Philipp Held,other,Berlin,1942.0,1962.0,20.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Axel Hannemann,other,Berlin,1945.0,1962.0,17.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Lutz Haberlandt,Berlin,Berlin,1938.0,1962.0,24.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Hans Räwel,other,Berlin,1941.0,1963.0,22.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Wolf-Olaf Muszynski,Berlin,Berlin,1947.0,,
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Klaus Schröter,other,Berlin,1940.0,1963.0,23.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Heinz Sokolowski,other,Berlin,1917.0,,
+f,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Marienetta Jirkowski,other,other in Germany,1962.0,1980.0,18.0
+m,History,Civilian,GDRflight_victim,Tiergarten,2003.0,Mauerkreuz,Chris Gueffroy,other,Berlin,1968.0,1989.0,21.0
+unspecified,History,Civilian,NSresistance_persecuted,Moabit,2007.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,History,Civilian,AntiWar,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Civilian,NovemberRevolution_Weimar,Gesundbrunnen,,Stein,no_Name,no_information,no_information,,,
+m,History,Civilian,SocialPolicy_issues,Moabit,,Stein,Alfred Frenkel,no_information,no_information,,,
+unspecified,History,Civilian,NSresistance_persecuted,Gesundbrunnen,2004.0,Stein,Namen siehe Gedenkstein,no_information,no_information,,,
+unspecified,History,Civilian,NSresistance_persecuted,Wedding,,other,no_Name,no_information,no_information,,,
+groups of mixed gender,History,Civilian,GDRflight_victim,Mitte,1982.0,Stein,"Ida Siekmann, Hans-Dieter Wesa, Rudolf Urban, Olga Segler, Bernd Lünser, Fritz Mundt, Ottfried Reck, Unbekannt, Michael Schmidt, Dietmar Schulz",no_information,no_information,,,
+unspecified,History,Civilian,NSresistance_persecuted,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Military_Police,AntiWar,Mitte,,other,no_Name,no_information,no_information,,,
+m,History,Military_Police,AntiWar,Mitte,,Stein,no_Name,no_information,no_information,,,
+m,History,Military_Police,other_countries,Wedding,2005.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Military_Police,no_specific_context,Mitte,,Stein,Johann Friedrich Schmidt,no_information,other in Germany,1789.0,1813.0,24.0
+no person,Building,Politics_Administration,no_specific_context,Mitte,1987.0,other,no_Name,no_information,no_information,,,
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,,Stein,no_Name,no_information,no_information,,,
+no person,Business,Chairman_Business_Finances,no_specific_context,Mitte,1995.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Moabit,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Politics_Administration,Jewish,Mitte,1998.0,Acrylglas,no_Name,no_information,no_information,,,
+m,History,Military_Police,GDRflight_victim,Mitte,,Acrylglas,Conrad Schumann,no_information,no_information,,,
+m,History,Civilian,GDRflight_victim,Mitte,,Acrylglas,Peter Fechter,Berlin,Berlin,1944.0,1962.0,18.0
+no person,History,Civilian,GDRflight_victim,Tiergarten,,Acrylglas,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Tiergarten,,Acrylglas,no_Name,no_information,no_information,,,
+no person,Building,Politics_Administration,no_specific_context,Tiergarten,,Acrylglas,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Wall_GermanUnity,Gesundbrunnen,,Acrylglas,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,,Acrylglas,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,,Acrylglas,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,,Acrylglas,no_Name,no_information,no_information,,,
+m,History,Civilian,GDRflight_victim,Mitte,2001.0,Acrylglas,Günter Litfin,Berlin,Berlin,1937.0,1961.0,24.0
+m,History,Military_Police,GDRflight_victim,Mitte,,Acrylglas,Egon Schultz,other,Berlin,1943.0,1964.0,21.0
+m,History,Military_Police,no_specific_context,Mitte,,Acrylglas,Reinold Huhn,other,Berlin,1942.0,1962.0,20.0
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,,Acrylglas,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,no_specific_context,Mitte,1996.0,Acrylglas,no_Name,no_information,no_information,,,
+no person,Business,Chairman_Business_Finances,Jewish,Mitte,2003.0,Infokasten,no_Name,no_information,no_information,,,
+no person,History,Civilian,GDRflight_victim,Gesundbrunnen,,Infokasten,no_Name,no_information,no_information,,,
+no person,History,Military_Police,AntiWar,Moabit,,other,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Gesundbrunnen,,Porzellan,no_Name,no_information,no_information,,,
+no person,Building,Christian_Church,no_specific_context,Hansaviertel,1955.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,Culture,Creative_Arts,no_specific_context,Wedding,,Stein,Goethe,other,other in Germany,1749.0,1832.0,83.0
+no person,Building,Politics_Administration,no_specific_context,Mitte,,other,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,1994.0,Stein,no_Name,no_information,no_information,,,
+m,Building,Education_School,Jewish,Mitte,,Stein,Moses Mendelssohn,other,Berlin,1729.0,1786.0,57.0
+m,Building,Education_School,Jewish,Mitte,1983.0,Metall_Stahl,Moses Mendelssohn,other,Berlin,1729.0,1786.0,57.0
+no person,Building,Politics_Administration,no_specific_context,Mitte,1861.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,other,Mitte,1994.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,1987.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Medical,NSresistance_persecuted,Tiergarten,1990.0,Metall_Stahl,Ernst Unger,Berlin,other in Germany,1875.0,1938.0,63.0
+groups of mixed gender,History,Socialists,NovemberRevolution_Weimar,Tiergarten,2010.0,Metall_Stahl,"Rosa Luxemburg, Karl Liebknecht",Leipzig,Berlin,1871.0,1919.0,48.0
+no person,Building,Architecture,no_specific_context,Hansaviertel,,Stein,no_Name,no_information,no_information,,,
+no person,Building,Architecture,no_specific_context,Tiergarten,,other,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,NSresistance_persecuted,Moabit,1990.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,no_specific_context,Hansaviertel,1998.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,Jewish,Wedding,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+unspecified,Business,Chairman_Business_Finances,Jewish,Tiergarten,2011.0,Porzellan,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,Jewish,Moabit,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+unspecified,History,Civilian,NSresistance_persecuted,Mitte,1997.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+unspecified,History,Civilian,Jewish,Moabit,1968.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Medical,Jewish,Gesundbrunnen,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Medical,Jewish,Gesundbrunnen,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,Culture,Architecture,no_specific_context,Mitte,2000.0,Porzellan,Hans Poelzig,Berlin,Berlin,1869.0,1936.0,67.0
+no person,Building,Christian_Church,no_specific_context,Mitte,2001.0,Infokasten,no_Name,no_information,no_information,,,
+m,Religion and Philosophy,Christian_Church,no_specific_context,Mitte,1999.0,other,Paul Gerhardt und Johann Crüger,other,Berlin,,,
+no person,Building,Chairman_Business_Finances,Jewish,Mitte,1989.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,2000.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Chairman_Business_Finances,Prussian_times,Mitte,2004.0,Acrylglas,no_Name,no_information,no_information,,,
+unspecified,History,Medical,NSresistance_persecuted,Moabit,1997.0,Porzellan,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,AntiWar,Mitte,1998.0,Stein,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,AntiWar,Mitte,,Stein,no_Name,no_information,no_information,,,
+no person,Building,Creative_Arts,no_specific_context,Tiergarten,,Infokasten,no_Name,no_information,no_information,,,
+no person,Building,Politics_Administration,no_specific_context,Mitte,,other,no_Name,no_information,no_information,,,
+no person,Building,Architecture,no_specific_context,Moabit,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+groups of mixed gender,History,Civilian,GDRflight_victim,Gesundbrunnen,2009.0,Acrylglas,Hasso Herschel,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,NSresistance_persecuted,Tiergarten,1989.0,Porzellan,no_Name,no_information,no_information,,,
+f,Building,Education_School,no_specific_context,Mitte,2005.0,"Bronze, Messing, Kupfer","Julie Wolfthorn, Else Ury, Paula Dehmel, Hannah Karminski, Frieda Leider, Margarethe Klose",no_information,no_information,,,
+unspecified,History,Civilian,Prussian_times,Mitte,,Acrylglas,no_Name,no_information,no_information,,,
+m,Building,Christian_Church,no_specific_context,Mitte,2002.0,Stein,"Carl Gottlieb Svarez, Friedrich Nicolai, Friedemann Bach",Berlin,Berlin,1746.0,1798.0,52.0
+m,Science and Research,Science_otherResearch,no_specific_context,Mitte,,Stein,Heinrich Gustav Magnus,Berlin,Berlin,1802.0,1870.0,68.0
+no person,Culture,Creative_Arts,no_specific_context,Mitte,,Stein,Max Reinhardt,other,outside Germany,1873.0,1943.0,70.0
+unspecified,History,Politics_Administration,Wall_GermanUnity,Gesundbrunnen,1991.0,Metall_Stahl,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,AntiWar,Wedding,,Stein,no_Name,no_information,no_information,,,
+f,Culture,Creative_Arts,no_specific_context,Mitte,,Infokasten,Marion Gräfin Dönhoff,other,other in Germany,1909.0,2002.0,93.0
+no person,History,Civilian,NSresistance_persecuted,Mitte,2001.0,other,no_Name,no_information,no_information,,,
+f,History,Socialists,NSresistance_persecuted,Moabit,1997.0,other,Mathilde Jacob,Berlin,KZ or NS_capture,1873.0,1943.0,70.0
+m,Culture,Creative_Arts,no_specific_context,Mitte,1966.0,"Bronze, Messing, Kupfer",Walter Felsenstein,other,Berlin,1901.0,1975.0,74.0
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,Infokasten,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Moabit,,Stein,no_Name,no_information,no_information,,,
+no person,Building,Military_Police,other,Mitte,,Infokasten,no_Name,no_information,no_information,,,
+no person,Science and Research,Science_otherResearch,no_specific_context,Wedding,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,no_specific_context,Mitte,,Stein,no_Name,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,no_specific_context,Mitte,,Stein,no_Name,no_information,no_information,,,
+m,Building,Architecture,no_specific_context,Mitte,2002.0,Porzellan,Ludwig Hoffmann,other,Berlin,1852.0,1932.0,80.0
+no person,Building,Architecture,no_specific_context,Mitte,1983.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Architecture,no_specific_context,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Christian_Church,no_specific_context,Mitte,1987.0,Metall_Stahl,no_Name,no_information,no_information,,,
+m,History,Socialists,NovemberRevolution_Weimar,Mitte,1988.0,Metall_Stahl,Karl Marx,other,outside Germany,1818.0,1883.0,65.0
+no person,History,Socialists,NovemberRevolution_Weimar,Mitte,1980.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Politics_Administration,no_specific_context,Mitte,2008.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Politics_Administration,Prussian_times,Mitte,,Stein,Otto Schröder,no_information,no_information,,,
+unspecified,History,Civilian,NSresistance_persecuted,Moabit,,other,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,AntiWar,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+unspecified,History,Civilian,AntiWar,Mitte,,Stein,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,Infokasten,no_Name,no_information,no_information,,,
+no person,Culture,Architecture,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,1951.0,other,no_Name,no_information,no_information,,,
+unspecified,History,Civilian,Jewish,Mitte,1988.0,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Military_Police,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+unspecified,History,Civilian,NSresistance_persecuted,Gesundbrunnen,1995.0,Porzellan,no_Name,no_information,no_information,,,
+no person,Science and Research,PublicPlaces_Buildings,Prussian_times,Mitte,,Metall_Stahl,no_Name,no_information,no_information,,,
+no person,Building,Politics_Administration,Prussian_times,Mitte,1999.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Prussian_times,Mitte,1998.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Christian_Church,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,Building,Science_otherResearch,no_specific_context,Wedding,,Acrylglas,Robert Koch,other,Baden-Baden,1843.0,1910.0,67.0
+f,Building,Medical,no_specific_context,Mitte,,other,no_Name,no_information,no_information,,,
+m,Religion and Philosophy,Politics_Administration,no_specific_context,Mitte,1997.0,Metall_Stahl,Bernhard Lichtenberg,other,other in Germany,1875.0,1943.0,68.0
+no person,Building,Politics_Administration,Prussian_times,Mitte,1993.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Chairman_Business_Finances,no_specific_context,Mitte,1979.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,Building,PublicPlaces_Buildings,other,Gesundbrunnen,1978.0,"Bronze, Messing, Kupfer",Gustav Böß,other,other in Germany,1873.0,1946.0,73.0
+no person,Building,Christian_Church,no_specific_context,Moabit,,Stein,no_Name,no_information,no_information,,,
+m,Religion and Philosophy,Politics_Administration,no_specific_context,Gesundbrunnen,,Stein,"Domprobst Bernhard Lichtenberg, Konrad Kardinal von Preysing, Bischof Wilhelm Weskamm, Kardinal Julius Döpfner",no_information,no_information,,,
+no person,Building,Creative_Arts,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Gesundbrunnen,1992.0,Stein,no_Name,no_information,no_information,,,
+groups of mixed gender,Culture,Creative_Arts,no_specific_context,Mitte,2002.0,Acrylglas,Felix Mendelssohn Bartholdy und Fanny Hensel (Tochter),other,Berlin,1809.0,1847.0,38.0
+m,Science and Research,Science_otherResearch,no_specific_context,Moabit,2012.0,"Bronze, Messing, Kupfer",Albert Einstein,other,outside Germany,1879.0,1955.0,76.0
+f,Religion and Philosophy,other,no_specific_context,Moabit,,"Bronze, Messing, Kupfer",Edith Stein,Breslau,KZ or NS_capture,1891.0,1942.0,51.0
+m,History,Civilian,NSresistance_persecuted,Moabit,,"Bronze, Messing, Kupfer",Johann Georg Elser,other,KZ or NS_capture,1903.0,1945.0,42.0
+m,Science and Research,Science_otherResearch,no_specific_context,Moabit,,"Bronze, Messing, Kupfer",Konrad Zuse,other,other in Germany,1910.0,1995.0,85.0
+m,History,Politics_Administration,no_specific_context,Moabit,,"Bronze, Messing, Kupfer",Ludwig Erhard,other,other in Germany,1897.0,1977.0,80.0
+m,Culture,Architecture,no_specific_context,Moabit,,"Bronze, Messing, Kupfer",Ludwig Mies van der Rohe,other,other in Germany,1886.0,,
+m,History,CivilSocietyOrganisation,no_specific_context,Moabit,2002.0,"Bronze, Messing, Kupfer",Ernst-Freiberger-Stiftung,no_information,no_information,,,
+m,History,Politics_Administration,NovemberRevolution_Weimar,Moabit,2006.0,"Bronze, Messing, Kupfer",Walther Rathenau,Berlin,Berlin,1867.0,1922.0,55.0
+m,Culture,Creative_Arts,NSresistance_persecuted,Moabit,2002.0,"Bronze, Messing, Kupfer",Albrecht Haushofer,other,Berlin,1903.0,,
+no person,Building,Jewish_Synagogue,no_specific_context,Mitte,1994.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Jewish_Synagogue,NSresistance_persecuted,Gesundbrunnen,,Stein,no_Name,no_information,no_information,,,
+m,History,Civilian,GDRflight_victim,Mitte,,Stein,Bernd Lünser,Berlin,Berlin,1939.0,1961.0,22.0
+m,History,Civilian,GDRflight_victim,Mitte,,Metall_Stahl,Ernst Mundt,other,Berlin,1921.0,1962.0,41.0
+m,History,Civilian,GDRflight_victim,Mitte,2003.0,Stein,Günter Litfin,Berlin,Berlin,1937.0,1961.0,24.0
+f,History,Civilian,GDRflight_victim,Mitte,,Stein,Olga Segler,other,Berlin,1881.0,1961.0,80.0
+m,History,Civilian,GDRflight_victim,Mitte,,Stein,Günter Litfin,Berlin,Berlin,1937.0,1961.0,24.0
+no person,History,CivilSocietyOrganisation,other,Wedding,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,Christian_Church,GDR_GDR_personality,Mitte,2007.0,Acrylglas,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Wall_GermanUnity,Mitte,2010.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,CivilSocietyOrganisation,SocialPolicy_issues,Mitte,1974.0,Stein,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,Prussian_times,Mitte,1998.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Civilian,NSresistance_persecuted,Mitte,1987.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Tiergarten,2000.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Civilian,GDRflight_victim,Mitte,2011.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,Civilian,GDRflight_victim,Mitte,,Infokasten,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Wedding,,Stein,no_Name,no_information,no_information,,,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,Infokasten,no_Name,no_information,no_information,,,
+m,History,Politics_Administration,no_specific_context,Mitte,2008.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+no person,History,CivilSocietyOrganisation,no_specific_context,Wedding,,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+m,History,Civilian,NSresistance_persecuted,Mitte,1995.0,"Bronze, Messing, Kupfer",Harro Schulze-Boysen,other,Berlin,1909.0,1942.0,33.0
+m,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,"Bronze, Messing, Kupfer",von Prof. Hugo Lederer,no_information,no_information,,,
+m,Religion and Philosophy,other,no_specific_context,Mitte,1990.0,"Bronze, Messing, Kupfer",Gottfried Wilhelm Leibniz,Leipzig,other in Germany,,1716.0,
+no person,Building,PublicPlaces_Buildings,no_specific_context,Mitte,,Stein,no_Name,no_information,no_information,,,
+no person,History,Politics_Administration,GDR_GDR_personality,Mitte,1999.0,Acrylglas,no_Name,no_information,no_information,,,
+no person,History,Socialists,NSresistance_persecuted,Mitte,,"Bronze, Messing, Kupfer",no_Name,Leipzig,Berlin,1871.0,1919.0,48.0
+no person,History,Socialists,NovemberRevolution_Weimar,Mitte,,other,no_Name,no_information,no_information,,,
+unspecified,History,Politics_Administration,NSresistance_persecuted,Wedding,1986.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
+unspecified,History,Politics_Administration,NSresistance_persecuted,Mitte,2000.0,Acrylglas,no_Name,no_information,no_information,,,
+m,History,Military_Police,NSresistance_persecuted,Mitte,1999.0,"Bronze, Messing, Kupfer",no_Name,no_information,no_information,,,
