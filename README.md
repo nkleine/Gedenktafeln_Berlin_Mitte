@@ -18,7 +18,7 @@
 - Exploratory DA:
   You can find the Exploratory DA process in the Notebook 'BerlinerGedenktafelMitte_2'.
   The products of this cleaning process are the files 'Gedenktafeln_Mitte_data1_EA' (contains Names and NaNs in numerical columns), 
-  'Gedenktafeln_Mitte_data2_EA' (Names and all NaNs are dropped) and 'Gedenktafeln_Mitte_data3_EA' (data2 standardized and encoded).
+  'Gedenktafeln_Mitte_data2_EA' (Names and all NaNs are dropped) and 'Gedenktafeln_Mitte_data3_processed_EA' (data2 standardized and encoded).
 
 - Presentation of the results:
   You find the Tableau presentation of the results under https://public.tableau.com/app/profile/nadine.kleine/viz/Presentation_Nadine_v2/PresentationNadine
